@@ -5,6 +5,7 @@ import mainCSS from "../components/main.module.css"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
+import Video from "../components/video"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -13,6 +14,7 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Work" />
+    <Video src="test.mp4" />
     <aside>
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug

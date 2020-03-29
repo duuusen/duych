@@ -26,7 +26,6 @@ const typography = new Typography({
     a: {
       color: "#BDBDBD",
       textDecoration: 'none',
-      borderBottom: '2px solid #616161',
       paddingBottom: '3px',
     },
     //'.gatsby-resp-image-link': {
@@ -40,6 +39,10 @@ const typography = new Typography({
       '-moz-transition': 'border-bottom-color 300ms linear',
     },
     'a:active': {
+    },
+    ul: {
+      'list-style': 'none',
+      margin: '0',
     },
     blockquote: {
       ...scale(1 / 4),

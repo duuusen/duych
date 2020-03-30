@@ -1,6 +1,6 @@
 ---
-title: Hello World
-date: "2038"
+title: Month
+date: "2038-05"
 description: "Hello testeststestestst"
 artists: "Duy Bui, Mara Weber, Dominik Szacaks, Emanuel Ettore"
 literature: "Theile, D., Hohmann, N., Kiemel, D., Gattuso, G., Barreca, D., Mikus, G., Haefeli, WE., Schwenger, V., Weiss, J. (2016). Clementine juice has the potential for drug interactions – In vitro comparison with grapefruit and mandarin juice. European journal of pharmaceutical sciences: official journal of the European Federation for Pharmaceutical Sciences (97).
@@ -8,6 +8,7 @@ literature: "Theile, D., Hohmann, N., Kiemel, D., Gattuso, G., Barreca, D., Miku
 Codoñer-Franch, P., López-Jaén, A., Muñiz, P., Sentandreu, E., Valls Bellés, V. (2008). Mandarin Juice Improves the Antioxidant Status of Hypercholesterolemic Children. Journal of Pediatric Gastroenterology and Nutrition 47(3)."
 mentors: "Clemens Winkler, Joelle Bitton"
 ---
+![Chinese Salty Egg](./egg.jpg)
 
 This is my first post on my new fake blog! How exciting!
 
@@ -20,7 +21,6 @@ Oh, and here's a great quote from this Wikipedia on
  eggs in brine, or packing each egg in damp, salted charcoal. In Asian
  supermarkets, these eggs are sometimes sold covered in a thick layer of salted
 
-![Chinese Salty Egg](./egg.jpg)
 
  charcoal paste. The eggs may also be sold with the salted paste removed,
  wrapped in plastic, and vacuum packed. From the salt curing process, the

@@ -62,6 +62,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             flexWrap: `wrap`,
             justifyContent: `space-between`,
             listStyle: `none`,
+            margin: 0,
             padding: 0,
           }}
         >

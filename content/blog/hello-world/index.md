@@ -1,6 +1,6 @@
 ---
-title: Hello World
-date: "2038"
+title: Year
+date: "2038-09"
 description: "Hello testeststestestst"
 artists: "Duy Bui, Mara Weber, Dominik Szacaks, Emanuel Ettore"
 literature: "Theile, D., Hohmann, N., Kiemel, D., Gattuso, G., Barreca, D., Mikus, G., Haefeli, WE., Schwenger, V., Weiss, J. (2016). Clementine juice has the potential for drug interactions – In vitro comparison with grapefruit and mandarin juice. European journal of pharmaceutical sciences: official journal of the European Federation for Pharmaceutical Sciences (97).

@@ -40,7 +40,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <section>
-          <p>{post.frontmatter.mentors}</p>
           <p>{post.frontmatter.literature}</p>
         </section>
         <hr
@@ -98,8 +97,6 @@ export const pageQuery = graphql`
         date(formatString: "YYYY")
         description
         artists
-        mentors
-        literature
       }
     }
   }

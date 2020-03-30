@@ -21,6 +21,12 @@ body {
 .fullWidth {
   width: 85vw;
 }
+.literature {
+  font-size: 70%;
+}
+.literature p {
+  margin: 5px;
+}
 @media only screen and (max-width: 400px) {
   .mediumWidth, .fullWidth {
     width: 100vw;

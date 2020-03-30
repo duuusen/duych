@@ -3,10 +3,6 @@ title: Month
 date: "2038-05"
 description: "Hello testeststestestst"
 artists: "Duy Bui, Mara Weber, Dominik Szacaks, Emanuel Ettore"
-literature: "Theile, D., Hohmann, N., Kiemel, D., Gattuso, G., Barreca, D., Mikus, G., Haefeli, WE., Schwenger, V., Weiss, J. (2016). Clementine juice has the potential for drug interactions – In vitro comparison with grapefruit and mandarin juice. European journal of pharmaceutical sciences: official journal of the European Federation for Pharmaceutical Sciences (97).
-
-Codoñer-Franch, P., López-Jaén, A., Muñiz, P., Sentandreu, E., Valls Bellés, V. (2008). Mandarin Juice Improves the Antioxidant Status of Hypercholesterolemic Children. Journal of Pediatric Gastroenterology and Nutrition 47(3)."
-mentors: "Clemens Winkler, Joelle Bitton"
 ---
 
 ![Chinese Salty Egg](./egg.jpg)
@@ -28,10 +24,12 @@ Oh, and here's a great quote from this Wikipedia on
  salted duck eggs have a briny aroma, a gelatin-like egg white and a
  firm-textured, round yolk that is bright orange-red in color.
  
-### Mentors
-Joelle Bitton, Clemens Winkler
+![Chinese Salty Egg](./egg.jpg)
 
-### Literature
+<div class="literature">
+
+Literature
 - Theile, D., Hohmann, N., Kiemel, D., Gattuso, G., Barreca, D., Mikus, G., Haefeli, WE., Schwenger, V., Weiss, J. (2016). Clementine juice has the potential for drug interactions – In vitro comparison with grapefruit and mandarin juice. European journal of pharmaceutical sciences: official journal of the European Federation for Pharmaceutical Sciences (97).
 - Codoñer-Franch, P., López-Jaén, A., Muñiz, P., Sentandreu, E., Valls Bellés, V. (2008). Mandarin Juice Improves the Antioxidant Status of Hypercholesterolemic Children. Journal of Pediatric Gastroenterology and Nutrition 47(3).
-![Chinese Salty Egg](./egg.jpg)
+
+</div>

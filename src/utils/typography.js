@@ -40,10 +40,6 @@ const typography = new Typography({
     },
     'a:active': {
     },
-    ul: {
-      'list-style': 'none',
-      margin: '0',
-    },
     blockquote: {
       ...scale(1 / 4),
       borderLeft: `${rhythm(1 / 6)} solid #eceeef`,

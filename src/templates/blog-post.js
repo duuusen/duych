@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
+import postStyles from "../components/post.module.css"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
@@ -16,7 +17,14 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <article>
+      <section 
+        style={{
+          maxWidth: rhythm(24),
+          margin: '0 auto',
+        }}
+      >
+      <article >
+        <header className={postStyles.postHeader}>
           <h1
             style={{
               marginTop: rhythm(1),
@@ -25,7 +33,20 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.title}
           </h1>
+          <h2
+            style={{
+              ...scale(0.15),
+              marginBottom: 0,
+            }}
+          >
+            {post.frontmatter.artists}
+          </h2>
+          <p>{post.frontmatter.date}</p>
+          <h3>{post.frontmatter.description}</h3>
+        </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
+        <p>{post.frontmatter.mentors}</p>
+        <p>{post.frontmatter.literature}</p>
         <hr
           style={{
             marginBottom: rhythm(1),
@@ -34,7 +55,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         <footer>
         </footer>
       </article>
-
       <nav>
         <ul
           style={{
@@ -61,6 +81,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </li>
         </ul>
       </nav>
+    </section>
     </Layout>
   )
 }
@@ -80,8 +101,11 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "YYYY")
         description
+        artists
+        mentors
+        literature
       }
     }
   }

@@ -9,7 +9,7 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h1
         style={{
-          //...scale(1.5),
+          ...scale(.5),
           marginBottom: rhythm(1.5),
           marginTop: 0,
         }}
@@ -27,8 +27,10 @@ const Layout = ({ location, title, children }) => {
     )
   } else {
     header = (
+      <header>
       <h1
         style={{
+          ...scale(.5),
           marginTop: 0,
         }}
       >
@@ -42,16 +44,32 @@ const Layout = ({ location, title, children }) => {
           {title}
         </Link>
       </h1>
+      <h1
+        style={{
+          position: 'fixed',
+          marginTop: 0,
+        }}
+      >
+        <Link
+          style={{
+            boxShadow: `none`,
+            color: `inherit`,
+          }}
+          to={`/`}
+        >
+        &larr;
+        </Link>
+      </h1>
+      </header>
     )
   }
   return (
     <div
       style={{
-        //maxWidth: rhythm(24),
-        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+        padding: `${rhythm(3 / 4)} ${rhythm(3 / 4)}`,
       }}
     >
-      <header>{header}</header>
+      {header}
       <main>{children}</main>
       <footer></footer>
     </div>

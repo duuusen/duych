@@ -4,38 +4,36 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
-import Video from "../components/video"
 
-const BlogIndex = ({ data, location }) => {
+const AboutPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Work" />
-    <Video src="test.mp4" />
-    <aside>
-      <ul style={{ listStyle: 'none', margin: 0, }}>
-        <li style={{ marginBottom: rhythm(2) }}><h3><Link to={'/about'}>About</Link></h3></li>
-        {posts.map(({ node }) => {
-        const title = node.frontmatter.title || node.fields.slug
-        return (
-          <li key={node.fields.slug}>
-              <h3>
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-          </li>
-        )
-      })}
-      </ul>
-    </aside>
+      <SEO title="About" />
+    <section 
+      style={{
+        maxWidth: rhythm(24),
+        margin: '0 auto',
+      }}
+    >
+    <p>Duy Bui works as a designer and artist.Born in Switzerland.Artistic practice / interest as designer,  mixed-media, Main Focus, Questioning which notions. Where have my works been shown</p>
+    <h2>Exhibitions</h2>
+    <ul style={{ listStyle: 'none', margin: 0, }}>
+      <li>Blabla</li>
+      <li>Blabla</li>
+      <li>Blabla</li>
+      <li>Blabla</li>
+      <li>Blabla</li>
+      <li>Blabla</li>
+    </ul>
+    </section>
     </Layout>
   )
 }
 
-export default BlogIndex
+export default AboutPage
 
 export const pageQuery = graphql`
   query {

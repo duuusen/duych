@@ -24,7 +24,7 @@ const typography = new Typography({
     h5: scale(-1 / 6),
     h6: scale(-2 / 6),
     a: {
-      color: "#BDBDBD",
+      color: "#FF6F00",
       textDecoration: 'none',
       paddingBottom: '3px',
     },
@@ -32,11 +32,10 @@ const typography = new Typography({
      //   border: 'none',
     //},
     "a:hover": {
-      borderBottomColor: '#BDBDBD',
-      transition: 'border-bottom-color 300ms linear',
-      '-webkit-transition': 'border-bottom-color 300ms linear',
-      '-ms-transition': 'border-bottom-color 300ms linear',
-      '-moz-transition': 'border-bottom-color 300ms linear',
+      opacity: '0.75',
+       transition: 'all .25s ease-in-out',
+       '-moz-transition': 'all .25s ease-in-out',
+       '-webkit-transition': 'all .25s ease-in-out', 
     },
     'a:active': {
     },

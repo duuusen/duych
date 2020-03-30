@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
+import { scale, rhythm } from "../utils/typography"
 import Video from "../components/video"
 
 const BlogIndex = ({ data, location }) => {
@@ -15,17 +15,17 @@ const BlogIndex = ({ data, location }) => {
       <SEO title="Work" />
     <Video src="test.mp4" />
     <aside>
-      <ul style={{ listStyle: 'none', margin: 0, }}>
-        <li style={{ marginBottom: rhythm(2) }}><h3><Link to={'/about'}>About</Link></h3></li>
+      <ul style={{
+        ...scale(0.5),
+        listStyle: 'none',
+        margin: 0,
+      }}>
+        <li style={{ marginBottom: rhythm(2) }}><Link to={'/about'}>About</Link></li>
         {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
           <li key={node.fields.slug}>
-              <h3>
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
+            <Link style={{ boxShadow: `none` }} to={node.fields.slug}>{title}</Link>
           </li>
         )
       })}

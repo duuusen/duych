@@ -23,7 +23,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           margin: '0 auto',
         }}
       >
-      <article >
+      <article>
         <header className={postStyles.postHeader}>
           <h1
             style={{
@@ -42,18 +42,18 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             {post.frontmatter.artists}
           </h2>
           <p>{post.frontmatter.date}</p>
-          <h3>{post.frontmatter.description}</h3>
+          <p>{post.frontmatter.description}</p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
-        <p>{post.frontmatter.mentors}</p>
-        <p>{post.frontmatter.literature}</p>
+        <section>
+          <p>{post.frontmatter.mentors}</p>
+          <p>{post.frontmatter.literature}</p>
+        </section>
         <hr
           style={{
             marginBottom: rhythm(1),
           }}
         />
-        <footer>
-        </footer>
       </article>
       <nav>
         <ul

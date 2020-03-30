@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import { rhythm, scale } from "../utils/typography"
+import "../components/main.css" 
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -45,6 +46,7 @@ const Layout = ({ location, title, children }) => {
         </Link>
       </h1>
       <h1
+        class="pfeil"
         style={{
           position: 'fixed',
           marginTop: 0,

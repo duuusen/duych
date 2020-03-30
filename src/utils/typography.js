@@ -2,17 +2,17 @@ import Typography from "typography"
 
 const typography = new Typography({
   baseFontSize: "18px",
-  baseLineHeight: 1.63,
+  baseLineHeight: 1.5,
   scaleRatio: 1.5,
-  googleFonts: [
-    {
-      name: "Inconsolata",
-      styles: ["400"],
-    },
-  ],
+  //googleFonts: [
+   // {
+    //  name: "Inconsolata",
+     // styles: ["400"],
+    //},
+  //],
   bodyFontFamily: ["GTAme","Helvetica Neue","serif"],
   headerFontFamily: ["GTAme","Helvetica Neue","serif"],
-  bodyColor: "#9E9E9E",
+  bodyColor: "#212121",
   headerWeight: 400,
   bodyWeight: 400,
   boldWeight: 700,

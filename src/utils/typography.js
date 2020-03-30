@@ -28,9 +28,6 @@ const typography = new Typography({
       textDecoration: 'none',
       paddingBottom: '3px',
     },
-    //'.gatsby-resp-image-link': {
-     //   border: 'none',
-    //},
     "a:hover": {
       opacity: '0.75',
        transition: 'all .25s ease-in-out',
@@ -38,6 +35,8 @@ const typography = new Typography({
        '-webkit-transition': 'all .25s ease-in-out', 
     },
     'a:active': {
+      position: 'relative',
+      top: '1px',
     },
     blockquote: {
       ...scale(1 / 4),

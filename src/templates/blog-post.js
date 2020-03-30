@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 import postStyles from "../components/post.module.css"
+import "../components/main.css" 
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
@@ -15,7 +16,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
+        description={post.frontmatter.descriptio}
       />
       <section 
         style={{
@@ -33,15 +34,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.title}
           </h1>
-          <h2
-            style={{
-              ...scale(0.15),
-              marginBottom: 0,
-            }}
-          >
-            {post.frontmatter.artists}
-          </h2>
-          <p>{post.frontmatter.date}</p>
+          <p style={{marginBottom: 0}}>{post.frontmatter.artists}</p>
+          <p style={{color: '#9E9E9E'}}>{post.frontmatter.date}</p>
           <p>{post.frontmatter.description}</p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
@@ -98,7 +92,6 @@ export const pageQuery = graphql`
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
-      excerpt(pruneLength: 160)
       html
       frontmatter {
         title

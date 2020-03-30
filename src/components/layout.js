@@ -8,6 +8,7 @@ const Layout = ({ location, title, children }) => {
   let header
   if (location.pathname === rootPath) {
     header = (
+      <header>
       <h1
         style={{
           ...scale(.5),
@@ -18,13 +19,13 @@ const Layout = ({ location, title, children }) => {
         <Link
           style={{
             boxShadow: `none`,
-            color: `inherit`,
           }}
           to={`/`}
         >
           {title}
         </Link>
       </h1>
+      </header>
     )
   } else {
     header = (
@@ -38,7 +39,6 @@ const Layout = ({ location, title, children }) => {
         <Link
           style={{
             boxShadow: `none`,
-            color: `inherit`,
           }}
           to={`/`}
         >

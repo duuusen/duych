@@ -11,15 +11,15 @@ body {
   -ms-font-feature-settings: "kern","liga","pnum";
   font-feature-settings: "kern","liga","pnum";
 }
-.mediumWidth {
-  width: 65vw;
+.mediumWidth, .fullWidth {
   margin: 4vw calc(50% - 50vw);
   transform: translateX(calc(50vw - 50%));
 }
+.mediumWidth {
+  width: 65vw;
+}
 .fullWidth {
   width: 85vw;
-  margin: 4vw calc(50% - 50vw);
-  transform: translateX(calc(50vw - 50%));
 }
 @media only screen and (max-width: 400px) {
   .mediumWidth, .fullWidth {

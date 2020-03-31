@@ -45,13 +45,7 @@ const Layout = ({ location, title, children }) => {
           {title}
         </Link>
       </h1>
-      <h1
-        class="pfeil"
-        style={{
-          position: 'fixed',
-          marginTop: 0,
-        }}
-      >
+      <div class="chevron">
         <Link
           style={{
             boxShadow: `none`,
@@ -59,9 +53,8 @@ const Layout = ({ location, title, children }) => {
           }}
           to={`/`}
         >
-        &larr;
         </Link>
-      </h1>
+      </div>
       </header>
     )
   }

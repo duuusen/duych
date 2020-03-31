@@ -11,6 +11,19 @@ body {
   -ms-font-feature-settings: "kern","liga","pnum";
   font-feature-settings: "kern","liga","pnum";
 }
+.chevron {
+  position: fixed;
+  background: url(../../static/chevron.svg) no-repeat;
+  background-size: contain;
+  background-position: center top;
+}
+.chevron, .chevron a {
+  display: block;
+  width: 25px;
+  height: 25px;
+  -webkit-animation: hover 3s ease-in-out infinite;
+  animation: hover 3s ease-in-out infinite;
+}
 .mediumWidth, .fullWidth {
   margin: 4vw calc(50% - 50vw);
   transform: translateX(calc(50vw - 50%));
@@ -22,7 +35,7 @@ body {
   width: 85vw;
 }
 .literature {
-  font-size: 70%;
+  font-size: 75%;
 }
 .literature p {
   margin: 5px;
@@ -31,7 +44,22 @@ body {
   .mediumWidth, .fullWidth {
     width: 100vw;
   }
-  .pfeil {
+  .chevron {
     display: none;
+    visibility: hidden;
+  }
+}
+@keyframes hover {
+  0% {
+    -webkit-transform:translateX(0);
+    transform:translateX(0)
+  }
+  60% {
+    -webkit-transform:translateX(-2px);
+    transform:translateX(-2px)
+  }
+  100% {
+    -webkit-transform:translateX(0);
+    transform:translateX(0)
   }
 }

@@ -1,6 +1,6 @@
 ---
 title: Year
-date: "2038-09"
+date: "2018-09"
 description: "Cooking as collective performance, a feeling of happiness and a feeling of home.
 In a team of 17 designer we developed and built a mobile pop-up kitchen that could be moved and used where it is needed."
 artists: "Duy Bui, Mara Weber, Dominik Szacaks, Emanuel Ettore"

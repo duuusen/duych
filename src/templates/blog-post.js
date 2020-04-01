@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
+import "../components/main.css" 
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
@@ -14,9 +15,16 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
+        description={post.frontmatter.descriptio}
       />
+      <section 
+        style={{
+          maxWidth: rhythm(24),
+          margin: '0 auto',
+        }}
+      >
       <article>
+        <header class="postHeader">
           <h1
             style={{
               marginTop: rhythm(1),
@@ -25,16 +33,21 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.title}
           </h1>
+          <p style={{marginBottom: 0}}>{post.frontmatter.artists}</p>
+          <p style={{marginBottom: 0}}>{post.frontmatter.credits}</p>
+          <p style={{color: '#9E9E9E', marginBottom: rhythm(3 / 2)}}>{post.frontmatter.date}</p>
+          <p style={{marginBottom: rhythm(1 / 3)}}>{post.frontmatter.description}</p>
+        </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
+        <section>
+          <p>{post.frontmatter.literature}</p>
+        </section>
         <hr
           style={{
             marginBottom: rhythm(1),
           }}
         />
-        <footer>
-        </footer>
       </article>
-
       <nav>
         <ul
           style={{
@@ -42,6 +55,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             flexWrap: `wrap`,
             justifyContent: `space-between`,
             listStyle: `none`,
+            margin: 0,
             padding: 0,
           }}
         >
@@ -61,6 +75,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </li>
         </ul>
       </nav>
+    </section>
     </Layout>
   )
 }
@@ -76,11 +91,12 @@ export const pageQuery = graphql`
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
-      excerpt(pruneLength: 160)
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        artists
+        credits
+        date(formatString: "YYYY")
         description
       }
     }

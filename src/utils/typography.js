@@ -2,47 +2,47 @@ import Typography from "typography"
 
 const typography = new Typography({
   baseFontSize: "18px",
-  baseLineHeight: 1.63,
+  baseLineHeight: 1.5,
   scaleRatio: 1.5,
-  googleFonts: [
-    {
-      name: "Inconsolata",
-      styles: ["400"],
-    },
-  ],
+  //googleFonts: [
+   // {
+    //  name: "Inconsolata",
+     // styles: ["400"],
+    //},
+  //],
   bodyFontFamily: ["GTAme","Helvetica Neue","serif"],
   headerFontFamily: ["GTAme","Helvetica Neue","serif"],
-  bodyColor: "#9E9E9E",
+  bodyColor: "#212121",
   headerWeight: 400,
   bodyWeight: 400,
   boldWeight: 700,
   overrideStyles: ({ adjustFontSizeTo, scale, rhythm }, options) => ({
     h1: scale(4 / 4),
     h2: scale(3 / 4),
-    h3: scale(2 / 4),
+    h3: scale(1 / 6),//scale(2 / 4)
     h4: scale(1 / 6),
     h5: scale(-1 / 6),
     h6: scale(-2 / 6),
-    a: {
-      color: "#BDBDBD",
-      textDecoration: 'none',
-      paddingBottom: '3px',
+    'h2, h3, h4, h5, h6': {
+      color: '#9E9E9E',
+      marginBottom: rhythm(1 / 3),
     },
-    //'.gatsby-resp-image-link': {
-     //   border: 'none',
-    //},
-    "a:hover": {
-      borderBottomColor: '#BDBDBD',
-      transition: 'border-bottom-color 300ms linear',
-      '-webkit-transition': 'border-bottom-color 300ms linear',
-      '-ms-transition': 'border-bottom-color 300ms linear',
-      '-moz-transition': 'border-bottom-color 300ms linear',
+    h3:{
+      marginTop: rhythm(3),
+    },
+    a: {
+      color: '#FF6F00',
+      textDecoration: 'none',
+    },
+    'a:hover': {
+      opacity: '0.75',
+       transition: 'all .25s ease-in-out',
+       '-moz-transition': 'all .25s ease-in-out',
+       '-webkit-transition': 'all .25s ease-in-out', 
     },
     'a:active': {
-    },
-    ul: {
-      'list-style': 'none',
-      margin: '0',
+      position: 'relative',
+      top: '1px',
     },
     blockquote: {
       ...scale(1 / 4),

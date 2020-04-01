@@ -20,7 +20,7 @@ const BlogIndex = ({ data, location }) => {
         listStyle: 'none',
         margin: 0,
       }}>
-        <li style={{ marginBottom: rhythm(2) }}><Link to={'/about'}>About</Link></li>
+        <li style={{ marginBottom: rhythm(3) }}><Link to={'/about'}>About</Link></li>
         {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (

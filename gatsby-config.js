@@ -43,9 +43,10 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               linkImagesToOriginal: false,
+              showCaptions: true,
               maxWidth: 1360,
               withWebp: true,
-              //wrapperStyle: 'margin: 4vw calc(50% - 50vw); transform: translateX(calc(50vw - 50%));',
+              wrapperStyle: 'margin: 4vw 0;',
             },
           },
           {

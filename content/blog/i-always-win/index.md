@@ -1,6 +1,8 @@
 ---
-title: Test
-date: "2020"
+title: I Always Win
+artists:
+credits: "Special Thanks to Miranda Lussmann"
+date: "2016-12"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 

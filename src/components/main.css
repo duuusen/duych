@@ -28,7 +28,7 @@ body {
   animation: hover 3s ease-in-out infinite;
 }
 .mediumWidth, .fullWidth {
-  margin: 4vw calc(50% - 50vw);
+  margin: 0 calc(50% - 50vw);
   transform: translateX(calc(50vw - 50%));
 }
 .mediumWidth {

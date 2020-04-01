@@ -17,7 +17,10 @@ const AboutPage = ({data, location }) => {
         margin: '0 auto',
       }}
     >
-    <div class="mediumWidth">
+    <div
+      class="mediumWidth"
+      style={{marginBottom: rhythm(3 / 1.7)}}
+    >
       <Img fluid={data.profilePic.childImageSharp.fluid} />
     </div>
     <p>Duy Bui works as a designer and artist.Born in Switzerland.Artistic practice / interest as designer,  mixed-media, Main Focus, Questioning which notions. Where have my works been shown</p>

@@ -23,12 +23,17 @@ const typography = new Typography({
     h4: scale(1 / 6),
     h5: scale(-1 / 6),
     h6: scale(-2 / 6),
-    'h2, h3, h4, h5, h6': {
+    'h2, h3, h4, h5, h6, figcaption': {
       color: '#9E9E9E',
       marginBottom: rhythm(1 / 3),
     },
     'h3':{
       marginTop: rhythm(3),
+    },
+    'figcaption': {
+      ...scale(-1 / 6),
+      marginTop: rhythm(1 / 8),
+      marginLeft: rhythm(1 / 8),
     },
     a: {
       color: '#FF6F00',

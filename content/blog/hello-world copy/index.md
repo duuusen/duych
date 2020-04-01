@@ -6,7 +6,11 @@ artists: "Duy Bui, Mara Weber, Dominik Szacaks, Emanuel Ettore"
 credits: "Special Thanks to: Echo"
 ---
 
+<div class="mediumWidth">
+
 ![Chinese Salty Egg](./egg.jpg)
+
+</div>
 
 This is my first post on my new fake blog! How exciting!
 

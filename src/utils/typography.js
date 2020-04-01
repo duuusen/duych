@@ -19,16 +19,22 @@ const typography = new Typography({
   overrideStyles: ({ adjustFontSizeTo, scale, rhythm }, options) => ({
     h1: scale(4 / 4),
     h2: scale(3 / 4),
-    h3: scale(2 / 4),
+    h3: scale(1 / 6),//scale(2 / 4)
     h4: scale(1 / 6),
     h5: scale(-1 / 6),
     h6: scale(-2 / 6),
-    a: {
-      color: "#FF6F00",
-      textDecoration: 'none',
-      paddingBottom: '3px',
+    'h2, h3, h4, h5, h6': {
+      color: '#9E9E9E',
+      marginBottom: rhythm(1 / 3),
     },
-    "a:hover": {
+    h3:{
+      marginTop: rhythm(3),
+    },
+    a: {
+      color: '#FF6F00',
+      textDecoration: 'none',
+    },
+    'a:hover': {
       opacity: '0.75',
        transition: 'all .25s ease-in-out',
        '-moz-transition': 'all .25s ease-in-out',

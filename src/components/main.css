@@ -11,6 +11,9 @@ body {
   -ms-font-feature-settings: "kern","liga","pnum";
   font-feature-settings: "kern","liga","pnum";
 }
+.postHeader {
+  text-align: center;
+}
 .chevron {
   position: fixed;
   background: url(../../static/chevron.svg) no-repeat;
@@ -34,13 +37,13 @@ body {
 .fullWidth {
   width: 85vw;
 }
-.literature {
-  font-size: 75%;
-}
-.literature p {
-  margin: 5px;
+.addInfo p {
+  margin: 0;
 }
 @media only screen and (max-width: 400px) {
+  .postHeader {
+    text-align: left;
+  }
   .mediumWidth, .fullWidth {
     width: 100vw;
   }

@@ -11,7 +11,7 @@ const Layout = ({ location, title, children }) => {
       <header>
       <h1
         style={{
-          ...scale(.5),
+          ...scale(1),
           marginBottom: rhythm(1.5),
           marginTop: 0,
         }}
@@ -32,14 +32,14 @@ const Layout = ({ location, title, children }) => {
       <header>
       <h1
         style={{
-          ...scale(.5),
+          ...scale(1),
           marginTop: 0,
         }}
       >
         <Link
           style={{
             boxShadow: `none`,
-            color: 'inherit',
+            //color: 'inherit',
           }}
           to={`/`}
         >

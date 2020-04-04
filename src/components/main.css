@@ -48,6 +48,10 @@ body {
   .postHeader {
     text-align: left;
   }
+  .sidebar:last-child {
+    position: static;
+    margin-top: 3rem;
+  }
   .mediumWidth, .fullWidth {
     width: 100vw;
   }

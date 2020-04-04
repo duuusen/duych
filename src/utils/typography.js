@@ -49,6 +49,13 @@ const typography = new Typography({
       position: 'relative',
       top: '1px',
     },
+    ul: {
+      listStyle: 'none',
+      marginLeft: 0,
+    },
+    li: {
+      margin: 0,
+    },
     blockquote: {
       ...scale(1 / 4),
       borderLeft: `${rhythm(1 / 6)} solid #eceeef`,

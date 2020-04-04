@@ -13,19 +13,19 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Work" />
-    <Video src="test.mp4" />
+    <Video src="trailer.mp4" />
     <aside>
       <ul style={{
-        ...scale(0.5),
+        ...scale(1 / 2),
         listStyle: 'none',
         margin: 0,
       }}>
-        <li style={{ marginBottom: rhythm(3) }}><Link to={'/about'}>About</Link></li>
+        <li style={{ marginBottom: rhythm(3) }}><Link to={'/about'} >About</Link></li>
         {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
           <li key={node.fields.slug}>
-            <Link style={{ boxShadow: `none` }} to={node.fields.slug}>{title}</Link>
+            <Link style={{ boxShadow: `none`}} to={node.fields.slug}>{title}</Link>
           </li>
         )
       })}

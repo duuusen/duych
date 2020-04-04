@@ -36,7 +36,7 @@ const typography = new Typography({
       marginLeft: rhythm(1 / 8),
     },
     a: {
-      color: '#FF6F00',
+      color: 'red',
       textDecoration: 'none',
     },
     'a:hover': {

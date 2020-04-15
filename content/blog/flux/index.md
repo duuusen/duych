@@ -3,108 +3,33 @@ title: Flux
 artists: "Fiona Good, Marcial Koch, Mara Weber, Duy Bui"
 credits:
 date: "2017-12"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: In the absence of humans, how would these materials interact? 
 ---
+<div class="full">
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+<div style="padding:56.25% 0 4vw 0;position:relative;"><iframe src="https://player.vimeo.com/video/407827158?color=ff0000&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## On deer horse aboard tritely yikes and much
+</div>
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+The material turn shifts the focus back to the materials and plays in the hand of design. Materials  as inherently performative mediators enable new forms of interactions between humans and materials, affording our actions and shifting our attitude towards how we perceive them.
+We imagined how these materials would interact with each other in absence of humans, questioning the nature of identity and agency, artificial and natural. Through the short film _Flux_ we imagined an environment in which fictional active materials react and perform with each other, make decisions and develop an identity of their own. Filmed only using UV light.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+![](./flux-1.jpg)
+![](./flux-2.jpg)
+![](./flux-3.jpg)
+![](./flux-4.jpg)
+![](./flux-5.jpg)
+![](./flux-6.jpg)
+![](./flux-7.jpg)
+![](./flux-8.jpg)
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+## Materials
+- UV light
+- UV paint
+- Glycerin
+- Soap
+- Black light
+- Self recorded Audio
 
-### Overlaid the jeepers uselessly much excluding
+With Nicole Foelsterl and Daniel Hug
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
-
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
-
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-### According a funnily until pre-set or arrogant well cheerful
-
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
-
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
-
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
-
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
-
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
-
-#### Silent delightfully including because before one up barring chameleon
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
-
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
-
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.

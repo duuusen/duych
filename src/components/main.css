@@ -31,18 +31,15 @@ body {
   -webkit-animation: hover 3s ease-in-out infinite;
   animation: hover 3s ease-in-out infinite;
 }
-.mediumWidth, .fullWidth {
+.medium, .full {
   margin: 0 calc(50% - 50vw);
   transform: translateX(calc(50vw - 50%));
 }
-.mediumWidth {
+.medium {
   width: 65vw;
 }
-.fullWidth {
+.full {
   width: 85vw;
-}
-.addInfo p {
-  margin: 0;
 }
 @media only screen and (max-width: 400px) {
   .postHeader {
@@ -52,7 +49,7 @@ body {
     position: static;
     margin-top: 3rem;
   }
-  .mediumWidth, .fullWidth {
+  .medium, .full {
     width: 100vw;
   }
   .chevron {

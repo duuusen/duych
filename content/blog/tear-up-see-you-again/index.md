@@ -3,108 +3,80 @@ title: Tear Up / See You Again
 artists: "BouDai12"
 credits: "Special Thanks to Echo"
 date: "2019-11"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: A series of installations by our collective Boudai12 at the Ming Contemporary Art Museum in Shanghai
 ---
+<div class="medium">
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+![](./tearupseeyouagain-14.jpg)
 
-## On deer horse aboard tritely yikes and much
+</div>
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+BouDai12 is an international collective that formed in October 2019 in Hong Kong.
+We received the opportunity to display at the McaM in Shanghai and developed a series of installations in Hong Kong for this exhibition.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
 
-### Overlaid the jeepers uselessly much excluding
+_Tear Up / See You Again_ are of photographic, video, sound and performance works that examine and reflect the construction of intricate bonds build by humans. Exploring our own roles as artists and the role of art itself, we aim to share our feelings to the audience and show our main drive behind our work: love.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+- Exhibited at McaM Shanghai 9 – 24 November 2019
+- Photos by Livia Benz, Duy Bui
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+## See You Again
+Three live stream compositions taken over a timespan of two weeks during November 2019 in Shanghai, Hong Kong, Japan and Indonesia.
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
 
-### According a funnily until pre-set or arrogant well cheerful
+<div class="full">
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+![](./tearupseeyouagain-1.jpg)
+![](./tearupseeyouagain-2.jpg)
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+</div>
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+## Wheat pasted photographs
+5 photographs XXXDimensionXXX, inkjet print on poster paper, applied to the wall using wheat paste and white paint. Analog photos taken in Hong Kong during October 2019. The film got x-rayed several times during transportation to Shanghai before developing and printing.
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+<div class="full">
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+![](./tearupseeyouagain-6.jpg)
+![](./tearupseeyouagain-4.jpg)
+![](./tearupseeyouagain-5.jpg)
+![](./tearupseeyouagain-3.jpg)
+![](./tearupseeyouagain-7.jpg)
 
-#### Silent delightfully including because before one up barring chameleon
+</div>
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+## Photo fishing line
+Black and White high-speed negatives installed floating in the air. The film was sent from Hong Kong to Shanghai and was x-rayed multiple times during transport.
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+<div class="full">
 
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+![](./tearupseeyouagain-13.jpg)
 
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
+</div>
 
-###### Slapped cozy a that lightheartedly and far
+## Cockroach & Tea 
+## Magic Paper Performance
+Chinese Magic Paper, 6x1.5m. 4 overalls made out of Chinese Magic Paper. Performance with personal expressions and quotes from Interviews taken during September through November 2019 in Hong Kong.
 
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+
+<div class="full">
+
+![](./tearupseeyouagain-8.jpg)
+![](./tearupseeyouagain-9.jpg)
+
+</div>
+
+## Cockroach & Tea 
+
+
+<div class="full">
+
+![](./tearupseeyouagain-10.jpg)
+![](./tearupseeyouagain-11.jpg)
+![](./tearupseeyouagain-12.jpg)
+
+</div>
+
+## Sound Installation
+Sound installation composed by self recorded audio taken during September through November in Hong Kong. 
+

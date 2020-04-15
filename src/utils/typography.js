@@ -18,8 +18,8 @@ const typography = new Typography({
   boldWeight: 700,
   overrideStyles: ({ adjustFontSizeTo, scale, rhythm }, options) => ({
     h1: scale(4 / 4),
-    h2: scale(3 / 4),
-    h3: scale(1 / 6),//scale(2 / 4)
+    h2: scale(1 / 6),//(3 / 4)
+    h3: scale(-1 / 6),//scale(2 / 4)
     h4: scale(1 / 6),
     h5: scale(-1 / 6),
     h6: scale(-2 / 6),
@@ -28,7 +28,7 @@ const typography = new Typography({
       marginBottom: rhythm(1 / 3),
     },
     'h3':{
-      marginTop: rhythm(3),
+      //marginTop: rhythm(3),
     },
     'figcaption': {
       ...scale(-1 / 6),

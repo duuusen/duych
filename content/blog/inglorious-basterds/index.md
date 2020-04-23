@@ -16,6 +16,6 @@ description: For the love of chairs
 
 </div>
 
-## Material
+## Materials
 - Found chairs
 

@@ -41,6 +41,27 @@ body {
 .full {
   width: 85vw;
 }
+.about-wrap, .about-items-wrap {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.about-wrap {
+  justify-content: space-between;
+}
+.about-img {
+  flex-basis: 40%;
+  padding-bottom: 4vw;
+}
+.about-content {
+  flex-basis: 57%;
+}
+.about-items {
+  margin-right: 8vw;
+}
+.about-items li {
+  margin-bottom: 0.3rem;
+}
 @media only screen and (max-width: 400px) {
   .postHeader {
     text-align: left;
@@ -55,6 +76,15 @@ body {
   .chevron {
     display: none;
     visibility: hidden;
+  }
+  .about-wrap {
+    display: block;
+  }
+  .about-items-wrap {
+    flex-direction: column-reverse;
+  }
+  .about-items li {
+    margin-bottom: 0.8rem;
   }
 }
 @keyframes hover {

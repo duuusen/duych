@@ -26,6 +26,8 @@ We conducted several experiments to translate and convey human spaces through ma
 Different sizes of styrofoam spheres are placed between two sheets of a specific synthetic film, which is then fused together creating a partial vaccum. This vacuum creates more friction between the spheres and the synthetic film, holding them vertically in place and preventing them from falling to the bottom. This surface can be charged with different materials, which in turn gives the surface distinct properties, like force of the electric charge and repelling or attractive qualities, as well as different interactions between the differently sized spheres.
 The surface interacts and communicates with us, by letting us feel the interaction between our electrostatic field and the surface as well as hear the electric discharges and see the movement of the spheres.
 
+![](./mdf-4.jpg)
+
 <div class="full">
 
 ![](./mdf-3.jpg)
@@ -37,5 +39,3 @@ The surface interacts and communicates with us, by letting us feel the interacti
 - Styrofoam balls in different sizes
 - Leather and synthetic fabric
 - Steel frame
-
-With Joëlle Bitton, Verena Ziegler, Joël Gähwiler

@@ -33,7 +33,7 @@ Three live stream compositions taken over a timespan of two weeks during Novembe
 </div>
 
 ## Wheat pasted photographs
-5 photographs XXXDimensionXXX, inkjet print on poster paper, applied to the wall using wheat paste and white paint. Analog photos taken in Hong Kong during October 2019. The film got x-rayed several times during transportation to Shanghai before developing and printing.
+Two prints 1065x710mm and three prints 532x354mm, inkjet on poster paper, applied to the wall using wheat paste and white paint. Analog photos taken in Hong Kong during October 2019. The film was x-rayed several times during transportation to Shanghai before developing and printing.
 
 <div class="full">
 
@@ -46,7 +46,7 @@ Three live stream compositions taken over a timespan of two weeks during Novembe
 </div>
 
 ## Photo fishing line
-Black and White high-speed negatives installed floating in the air. The film was sent from Hong Kong to Shanghai and was x-rayed multiple times during transport.
+Six black and white high-speed negatives installed floating in the air. The film was sent from Hong Kong to Shanghai and was x-rayed multiple times during transport.
 
 <div class="full">
 
@@ -54,9 +54,8 @@ Black and White high-speed negatives installed floating in the air. The film was
 
 </div>
 
-## Cockroach & Tea 
 ## Magic Paper Performance
-Chinese Magic Paper, 6x1.5m. 4 overalls made out of Chinese Magic Paper. Performance with personal expressions and quotes from Interviews taken during September through November 2019 in Hong Kong.
+Chinese Magic Paper, 6x1.5m. Four overalls made out of Chinese Magic Paper. Performance with personal expressions and quotes from Interviews taken during September through November 2019 in Hong Kong.
 
 
 <div class="full">
@@ -67,7 +66,6 @@ Chinese Magic Paper, 6x1.5m. 4 overalls made out of Chinese Magic Paper. Perform
 </div>
 
 ## Cockroach & Tea 
-
 
 <div class="full">
 

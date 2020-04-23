@@ -1,14 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Duy Bui`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Duy Bui`,
+      summary: `Interactive Designer and Artist`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Personal Portfolio Site`,
+    siteUrl: `https://duy.ch`,
     social: {
-      twitter: `kylemathews`,
+      twitter: ``,
+      instagram: '',
+      github: '',
     },
   },
   plugins: [
@@ -27,13 +29,24 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/fonts/`,
+        name: `fonts`,
+      },
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
+              linkImagesToOriginal: false,
+              showCaptions: true,
+              maxWidth: 1360,
+              withWebp: true,
+              wrapperStyle: 'margin: 2vw 0;',
             },
           },
           {
@@ -56,17 +69,17 @@ module.exports = {
         //trackingId: `ADD YOUR TRACKING ID HERE`,
       },
     },
-    `gatsby-plugin-feed`,
+    //`gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Duy Bui Interactive Designer and Artist`,
+        short_name: `Duy Bui`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/d-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
@@ -76,8 +89,6 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
   ],
 }

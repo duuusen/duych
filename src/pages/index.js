@@ -1,10 +1,10 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
+import { scale, rhythm } from "../utils/typography"
+import Video from "../components/video"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -12,34 +12,25 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="All posts" />
-      <Bio />
-      {posts.map(({ node }) => {
+      <SEO title="Work" />
+    <Video src="trailer.mp4" />
+    <aside>
+      <ul style={{
+        ...scale(1),
+        listStyle: 'none',
+        margin: 0,
+      }}>
+        <li style={{ marginBottom: rhythm(3) }}><Link to={'/about'} >About</Link></li>
+        {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
-          <article key={node.fields.slug}>
-            <header>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-            </header>
-            <section>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
-                }}
-              />
-            </section>
-          </article>
+          <li class="sidebar" style={{ marginBottom: rhythm(1 / 4) }} key={node.fields.slug}>
+            <Link style={{ boxShadow: `none`, }} to={node.fields.slug}>{title}</Link>
+          </li>
         )
       })}
+      </ul>
+    </aside>
     </Layout>
   )
 }
@@ -61,7 +52,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "MMMM, YYYY")
             title
             description
           }

@@ -1,17 +1,17 @@
 import React from "react"
 import { Link } from "gatsby"
-
 import { rhythm, scale } from "../utils/typography"
+import "../components/main.css" 
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
-
   if (location.pathname === rootPath) {
     header = (
+      <header>
       <h1
         style={{
-          ...scale(1.5),
+          ...scale(1),
           marginBottom: rhythm(1.5),
           marginTop: 0,
         }}
@@ -19,53 +19,57 @@ const Layout = ({ location, title, children }) => {
         <Link
           style={{
             boxShadow: `none`,
-            textDecoration: `none`,
-            color: `inherit`,
           }}
           to={`/`}
         >
           {title}
         </Link>
       </h1>
+      </header>
     )
   } else {
     header = (
-      <h3
+      <header>
+      <h1
         style={{
-          fontFamily: `Montserrat, sans-serif`,
+          ...scale(1),
           marginTop: 0,
         }}
       >
         <Link
           style={{
             boxShadow: `none`,
-            textDecoration: `none`,
-            color: `inherit`,
+            //color: 'inherit',
           }}
           to={`/`}
         >
           {title}
         </Link>
-      </h3>
+      </h1>
+      <div class="chevron">
+        <Link
+          style={{
+            boxShadow: `none`,
+            color: `inherit`,
+          }}
+          to={`/`}
+        >
+        </Link>
+      </div>
+      </header>
     )
   }
   return (
     <div
       style={{
-        marginLeft: `auto`,
-        marginRight: `auto`,
-        maxWidth: rhythm(24),
-        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+        padding: `${rhythm(3 / 4)} ${rhythm(3 / 4)}`,
       }}
     >
-      <header>{header}</header>
+      {header}
       <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
-      </footer>
+      <footer></footer>
     </div>
+
   )
 }
 

@@ -14,10 +14,6 @@ body {
 .postHeader {
   text-align: center;
 }
-.sidebar:last-child {
-  position: absolute;
-  bottom: 10px;
-}
 .chevron {
   position: fixed;
   background: url(../../static/chevron.svg) no-repeat;
@@ -65,10 +61,6 @@ body {
 @media only screen and (max-width: 480px) {
   .postHeader {
     text-align: left;
-  }
-  .sidebar:last-child {
-    position: static;
-    margin-top: 3rem;
   }
   .medium, .full {
     width: 100vw;

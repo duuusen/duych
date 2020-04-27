@@ -2,9 +2,9 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
+import Video from "../components/video"
 import SEO from "../components/seo"
 import { scale, rhythm } from "../utils/typography"
-import Video from "../components/video"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -39,6 +39,13 @@ export default BlogIndex
 
 export const pageQuery = graphql`
   query {
+    bgImg: file(relativePath: { eq: "bg.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 1360) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
     site {
       siteMetadata {
         title

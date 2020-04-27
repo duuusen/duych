@@ -59,6 +59,10 @@ body {
   margin-bottom: 0.25rem;
 }
 @media only screen and (max-width: 480px) {
+  .video {
+    display: none;
+    visibility: hidden;
+  }
   .postHeader {
     text-align: left;
   }

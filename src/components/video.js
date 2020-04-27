@@ -15,6 +15,7 @@ export default ({ src }) => {
         }}
         >
         <video
+            className="video"
             autoPlay
             muted
             loop

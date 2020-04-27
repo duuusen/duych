@@ -3,7 +3,7 @@ title: Flux
 artists: "Fiona Good, Marcial Koch, Mara Weber, Duy Bui"
 credits:
 date: "2017-12"
-description: In the absence of humans, how would these materials interact? 
+description: In the absence of humans, how would these materials interact?
 ---
 <div class="full">
 
@@ -30,6 +30,3 @@ We imagined how these materials would interact with each other in absence of hum
 - Soap
 - Black light
 - Self recorded Audio
-
-With Nicole Foelsterl and Daniel Hug
-

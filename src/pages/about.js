@@ -11,7 +11,7 @@ const AboutPage = ({data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="About" />
-    <section 
+    <section
       style={{
         maxWidth: rhythm(38),
         margin: '0 auto',
@@ -22,7 +22,11 @@ const AboutPage = ({data, location }) => {
         <Img fluid={data.profilePic.childImageSharp.fluid} />
       </div>
       <div class="about-content">
-        <p>Duy Bui works as a designer and artist based in Switzerland. In his works he is using design as research and inquiry as well as artistic approaches that include material processes, new media, interactive media, film and photography. Through different media and methods his main focus aims at creating a basis for dialogue, discussion and fostering change. Influenced by the friction of different cultures, values and societies he is particularly interested in observing societal structures and paradoxes.</p>
+        <p>Duy Bui (b. 1994 and based in Switzerland) works as designer and artist. As an interaction designer by training he is using design as a tool of research and inquiry as well as artistic approaches. Relying on close collaboration with fellow artists and designers, he beliefs that in order to develop a strong and thorough language within a topic working in a collaborative and transcultural way is essential.
+
+Influenced by the friction of different cultures, values and societies he is particularly interested in observing and questioning societal, economical and political structures and paradoxes.
+Through research and reflection he builds a vocabulary of the topic that he expresses in various ways such as installations, video, photography and mixed-media. Thereby he especially focuses on the materiality of things, paying attention to the intimacy of the interaction and the play of influences and agencies that materials provide.
+Through his works he aims at providing a basis for discussion and change by imagining alternative futures and making them tangible.</p>
         <p>Photo Livia Benz</p>
       </div>
     </div>

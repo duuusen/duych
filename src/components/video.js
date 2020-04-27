@@ -1,8 +1,27 @@
 import React from 'react';
 import { withPrefix } from 'gatsby';
+import { StaticQuery, graphql } from "gatsby"
+import Img from "gatsby-image"
 
-export default ({ src }) => {
-    return (
+export default ({ src }) => (
+  <StaticQuery
+    query={graphql`
+      query HeadingQuery {
+        bgImg: file(relativePath: { eq: "bg.jpg" }) {
+          childImageSharp {
+            fluid(maxWidth: 1360) {
+            ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        site {
+          siteMetadata {
+            title
+          }
+        }
+      }
+    `}
+    render={data => (
       <section
         style={{
           position: 'fixed',
@@ -15,6 +34,7 @@ export default ({ src }) => {
         }}
         >
         <video
+            className="video"
             autoPlay
             muted
             loop
@@ -38,6 +58,8 @@ export default ({ src }) => {
             <source src={withPrefix(src)} type="video/mp4" />
             Your device does not support playing 'video/mp4' videos
         </video>
+      <Img className="bgImg" fluid={data.bgImg.childImageSharp.fluid} />
       </section>
-    )
-}
+    )}
+  />
+)

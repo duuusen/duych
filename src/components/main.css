@@ -14,10 +14,6 @@ body {
 .postHeader {
   text-align: center;
 }
-.sidebar:last-child {
-  position: absolute;
-  bottom: 10px;
-}
 .chevron {
   position: fixed;
   background: url(../../static/chevron.svg) no-repeat;
@@ -60,15 +56,23 @@ body {
   margin-right: 8vw;
 }
 .about-items li {
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.25rem;
 }
-@media only screen and (max-width: 480px) {
+.bgImg {
+  display: none;
+  visibility: hidden;
+}
+@media only screen and (max-width: 680px) {
+  .video {
+    display: none;
+    visibility: hidden;
+  }
+  .bgImg {
+    display: block;
+    visibility: visible;
+  }
   .postHeader {
     text-align: left;
-  }
-  .sidebar:last-child {
-    position: static;
-    margin-top: 3rem;
   }
   .medium, .full {
     width: 100vw;

@@ -11,8 +11,6 @@ description: Collectively dreaming space
 
 </div>
 
-> “Räume werden im Handeln geschaffen, indem Objekte und Menschen synthetisiert und relational angeordnet werden (…) Räume entwicklen demnach eine eigenen Potentialität, die Gefühle beeinflussen kann. Diese Potentialität der Räume werde ich im folgenden ‘Atmosphäre’ nennen.” Martina Löw, 2001
-
 How does space emerge? How do we perceive space? Spaces are processual. Spaces are fabricated. Spaces have an agency of their own. _In Your Head_ is an immersive installation challenging your senses and imagination, inviting you to build and explore spaces together - collectively dreaming space.
 
 <div class="medium">

@@ -27,9 +27,6 @@ const typography = new Typography({
       color: '#9E9E9E',
       marginBottom: rhythm(1 / 3),
     },
-    'h3':{
-      //marginTop: rhythm(3),
-    },
     'figcaption': {
       ...scale(-1 / 6),
       marginTop: rhythm(1 / 8),

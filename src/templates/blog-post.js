@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Footer from "../components/footer"
 import { rhythm } from "../utils/typography"
 import "../components/main.css" 
 
@@ -35,8 +36,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </h1>
           <p style={{marginBottom: 0}}>{post.frontmatter.artists}</p>
           <p style={{marginBottom: 0}}>{post.frontmatter.credits}</p>
-          <p style={{color: '#9E9E9E', marginBottom: rhythm(3 / 2)}}>{post.frontmatter.date}</p>
-          <p style={{marginBottom: rhythm(1 / 3)}}>{post.frontmatter.description}</p>
+          <p style={{color: '#9E9E9E', marginBottom: rhythm(3 / 2.5)}}>{post.frontmatter.date}</p>
+          <p style={{marginBottom: rhythm(1 / 2)}}>{post.frontmatter.description}</p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <section>
@@ -75,6 +76,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </li>
         </ul>
       </nav>
+    <Footer />
     </section>
     </Layout>
   )

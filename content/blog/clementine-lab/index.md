@@ -11,11 +11,7 @@ description: How can materials act as a mediator and as an agent? How can we thr
 </div>
 
 
-Clementines and other citrus fruits have a proven influence on enzyme and drug metabolism activity. clementine.lab acknowledges the potential of clementines as drugs and explores their values for DIY medicine. It aims at repurposing leftover clementines and discarded clementine peels and is an open source medicine platform, that distributes clementine.kits as a starting point for your first DIY medicine. It provides no recipes but a frame, to encourage and empower your experimentations with the ingredients.
-
-Thus sparking debate blabla
-
-The clementine.lab platform provides a place where you can explore recipes from and contribute to the community by sharing the recipes you developed.
+Clementines and other citrus fruits have a proven influence on enzyme and drug metabolism activity. clementine.lab acknowledges the potential of clementines as drugs and explores their values for DIY medicine, questioning our relationship with pharmaceuticals and our understanding of our own body. It aims at repurposing leftover clementines and discarded clementine peels and is an open source medicine platform, that distributes clementine.kits as a starting point for your first DIY medicine. It provides no recipes but a frame, to encourage and empower your experimentations with the ingredients. The clementine.lab platform provides a place where you can explore recipes from and contribute to the community by sharing the recipes you developed.
 
 <div class="full">
 

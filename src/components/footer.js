@@ -1,5 +1,4 @@
 import React from 'react';
-import { withPrefix } from 'gatsby';
 import { scale, rhythm } from "../utils/typography"
 
 export default ({ src }) => {

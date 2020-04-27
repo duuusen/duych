@@ -58,10 +58,18 @@ body {
 .about-items li {
   margin-bottom: 0.25rem;
 }
+.bgImg {
+  display: none;
+  visibility: hidden;
+}
 @media only screen and (max-width: 480px) {
   .video {
     display: none;
     visibility: hidden;
+  }
+  .bgImg {
+    display: block;
+    visibility: visible;
   }
   .postHeader {
     text-align: left;

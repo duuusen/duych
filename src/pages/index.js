@@ -39,13 +39,6 @@ export default BlogIndex
 
 export const pageQuery = graphql`
   query {
-    bgImg: file(relativePath: { eq: "bg.jpg" }) {
-      childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
     site {
       siteMetadata {
         title

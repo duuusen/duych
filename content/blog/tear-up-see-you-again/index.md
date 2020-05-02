@@ -21,7 +21,7 @@ _Tear Up / See You Again_ are of photographic, video, sound and performance work
 <br>
 Photos by Livia Benz, Duy Bui
 
-## Exhibited
+## Exhibition
 - McaM Shanghai 9 – 24 November 2019
 
 ## See You Again

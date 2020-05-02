@@ -18,8 +18,8 @@ const typography = new Typography({
   boldWeight: 700,
   overrideStyles: ({ adjustFontSizeTo, scale, rhythm }, options) => ({
     h1: scale(4 / 4),
-    h2: scale(1 / 6),//(3 / 4)
-    h3: scale(-1 / 6),//scale(2 / 4)
+    h2: scale(3 / 4),//(3 / 4)
+    h3: scale(-1 / 12),//scale(2 / 4)
     h4: scale(1 / 6),
     h5: scale(-1 / 6),
     h6: scale(-2 / 6),

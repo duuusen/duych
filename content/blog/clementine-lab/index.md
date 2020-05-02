@@ -38,7 +38,7 @@ Exhibited at Punkt ZHdK 21 – 24 April 2019 and Designfestival Bern 2 - 5 May 2
 - Ferrofluid
 - Magnets
 
-## Exhibited
+## Exhibition
 - Designfestival Bern, Switzerland  2–5 May 2019
 - Punkt ZHdK Zurich, Switzerland 21–24 April 2019
 

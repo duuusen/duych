@@ -44,7 +44,7 @@ const typography = new Typography({
       opacity: '0.75',
        transition: 'all .25s ease-in-out',
        '-moz-transition': 'all .25s ease-in-out',
-       '-webkit-transition': 'all .25s ease-in-out', 
+       '-webkit-transition': 'all .25s ease-in-out',
     },
     'a:active': {
       position: 'relative',

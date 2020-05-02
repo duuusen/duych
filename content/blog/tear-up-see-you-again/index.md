@@ -17,9 +17,12 @@ We received the opportunity to display at the McaM in Shanghai and developed a s
 
 
 _Tear Up / See You Again_ are of photographic, video, sound and performance works that examine and reflect the construction of intricate bonds build by humans. Exploring our own roles as artists and the role of art itself, we aim to share our feelings to the audience and show our main drive behind our work: love.
+<br>
+<br>
+Photos by Livia Benz, Duy Bui
 
-- Exhibited at McaM Shanghai 9 – 24 November 2019
-- Photos by Livia Benz, Duy Bui
+## Exhibited
+- McaM Shanghai 9 – 24 November 2019
 
 ## See You Again
 Three live stream compositions taken over a timespan of two weeks during November 2019 in Shanghai, Hong Kong, Japan and Indonesia.

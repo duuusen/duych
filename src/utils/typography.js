@@ -26,10 +26,10 @@ const typography = new Typography({
     p: { marginBottom: 0, },
     'h2, h3, h4, h5, h6, figcaption': {
       color: '#9E9E9E',
-      marginBottom: rhythm(1 / 3),
+      marginBottom: rhythm(1 / 6),
     },
     'h2': {
-      marginTop: rhythm(2 / 3),
+      marginTop: rhythm(4 / 3),
     },
     'figcaption': {
       ...scale(-1 / 6),

@@ -45,6 +45,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </section>
         <hr
           style={{
+            marginTop: rhythm(2),
             marginBottom: rhythm(1),
           }}
         />

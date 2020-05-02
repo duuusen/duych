@@ -38,9 +38,9 @@ Exhibited at Punkt ZHdK 21 – 24 April 2019 and Designfestival Bern 2 - 5 May 2
 - Ferrofluid
 - Magnets
 
-## Exhibited at
-- Designfestival Bern, 2019
-- Punkt ZHdK Zurich, 2019
+## Exhibited
+- Designfestival Bern, Switzerland  2–5 May 2019
+- Punkt ZHdK Zurich, Switzerland 21–24 April 2019
 
 ## Literature
 - Theile, D., Hohmann, N., Kiemel, D., Gattuso, G., Barreca, D., Mikus, G., Haefeli, WE., Schwenger, V., Weiss, J. (2016). Clementine juice has the potential for drug interactions – In vitro comparison with grapefruit and mandarin juice. European journal of pharmaceutical sciences: official journal of the European Federation for Pharmaceutical Sciences (97).

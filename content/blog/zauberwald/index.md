@@ -14,7 +14,7 @@ description: A digital marble run installation in collaboration with EWZ and Zau
 
 </div>
 
-Exhibited at Zauberwald Lenzerheide 14 – 30 December 2018
+Exhibited at Zauberwald Lenzerheide 14 – 30 December 2018 and Punkt ZHdK 21 – 24 April 2019
 
 ## Material
 - Acrylic Glass, clear and sandblasted

@@ -27,6 +27,8 @@ Clementines and other citrus fruits have a proven influence on enzyme and drug m
 
 </div>
 
+Exhibited at Punkt ZHdK 21 – 24 April 2019 and Designfestival Bern 2 - 5 May 2019
+
 ## Materials
 - Clementine
 - Dry Ice

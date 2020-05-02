@@ -28,6 +28,9 @@ const typography = new Typography({
       color: '#9E9E9E',
       marginBottom: rhythm(1 / 3),
     },
+    'h2': {
+      marginTop: rhythm(2 / 3),
+    },
     'figcaption': {
       ...scale(-1 / 6),
       marginTop: rhythm(1 / 8),
@@ -70,6 +73,10 @@ const typography = new Typography({
       color: "#BDBDBD",
       fontWeight: options.bodyWeight,
       fontStyle: "normal",
+    },
+    img: {
+      marginTop: rhythm(1 / 3),
+      marginBottom: rhythm(1 / 3),
     },
   }),
 })

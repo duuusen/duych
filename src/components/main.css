@@ -49,6 +49,9 @@ body {
   flex-basis: 40%;
   padding-bottom: 4vw;
 }
+.about-img img {
+  margin: 0;
+}
 .about-content {
   flex-basis: 57%;
 }

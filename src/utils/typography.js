@@ -23,6 +23,7 @@ const typography = new Typography({
     h4: scale(1 / 6),
     h5: scale(-1 / 6),
     h6: scale(-2 / 6),
+    p: { marginBottom: 0, },
     'h2, h3, h4, h5, h6, figcaption': {
       color: '#9E9E9E',
       marginBottom: rhythm(1 / 3),

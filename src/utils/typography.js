@@ -75,7 +75,6 @@ const typography = new Typography({
       fontStyle: "normal",
     },
     img: {
-      marginTop: rhythm(1 / 3),
       marginBottom: rhythm(1 / 3),
     },
   }),

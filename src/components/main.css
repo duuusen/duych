@@ -19,6 +19,7 @@ body {
   background: url(../../static/chevron.svg) no-repeat;
   background-size: contain;
   background-position: center top;
+  margin-top: 0.5rem;
 }
 .chevron, .chevron a {
   display: block;
@@ -44,11 +45,14 @@ body {
 }
 .about-wrap {
   justify-content: space-between;
+  margin-bottom: 5rem;
 }
+/*--
 .about-img {
   flex-basis: 40%;
   padding-bottom: 4vw;
 }
+--*/
 .about-content {
   flex-basis: 57%;
 }

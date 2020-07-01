@@ -38,6 +38,7 @@ export default ({ src }) => (
             autoPlay
             muted
             loop
+            playsinline
             style={{
                 position: 'absolute',
                 top: '50%',

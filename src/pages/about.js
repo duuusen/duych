@@ -26,13 +26,20 @@ const AboutPage = ({data, location }) => {
       <div class="about-items">
       <h2>Exhibitions</h2>
       <ul style={{ listStyle: 'none', }}>
-        <li>Transcultural Collaboration, ZHdK, Zurich Switzerland</li>
+        <li><h3>2019</h3></li>
+        <li>Transcultural Collaboration, ZHdK, Zurich, Switzerland</li>
         <li>HART House, Hong Kong</li>
         <li>McaM Shanghai, China</li>
         <li>Design Festival Bern, Switzerland</li>
-        <li>FOGO, Zurich Switzerland</li>
+        <li>FOGO, Zurich, Switzerland</li>
         <li>Punkt ZHdK, Zurich, Switzerland</li>
-        <li>Zauberwald Lenzerheide, Switzerland</li>
+        <li><h3>2018</h3></li>
+        <li>Zauberwald, Lenzerheide, Switzerland</li>
+      </ul>
+      <h2>Screenings</h2>
+      <ul style={{ listStyle: 'none', }}>
+        <li><h3>2019</h3></li>
+        <li>Isle of Tears, Kino Toni, Zurich, Switzerland</li>
       </ul>
       </div>
       <div class="about-items">

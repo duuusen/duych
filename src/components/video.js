@@ -35,10 +35,10 @@ export default ({ src }) => (
         >
         <video
             className="video"
-            autoPlay
             muted
             loop
             playsinline
+            autoPlay
             style={{
                 position: 'absolute',
                 top: '50%',

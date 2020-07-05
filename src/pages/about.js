@@ -27,7 +27,7 @@ const AboutPage = ({data, location }) => {
       <h2>Exhibitions</h2>
       <ul style={{ listStyle: 'none', }}>
         <li><h3>2019</h3></li>
-        <li>Transcultural Collaboration, ZHdK, Zurich, Switzerland</li>
+        <li>Bonds & Ties 契約與紐帶, ZHdK, Zurich, Switzerland</li>
         <li>HART House, Hong Kong</li>
         <li>McaM Shanghai, China</li>
         <li>Design Festival Bern, Switzerland</li>

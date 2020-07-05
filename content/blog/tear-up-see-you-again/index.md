@@ -16,7 +16,7 @@ We received the opportunity to display at the McaM in Shanghai and developed a s
 
 
 
-_Tear Up / See You Again_ –《再見 / 睙眼》 are of photographic, video, sound and performance works that examine and reflect the construction of intricate bonds build by humans. Exploring our own roles as artists and the role of art itself, we aim to share our feelings to the audience and show our main drive behind our work: love.
+_Tear Up / See You Again_ –《再見 / 睙眼》 are a series of photography, video, sound and performance works that examine and reflect the construction of intricate bonds build by humans. Exploring our own roles as artists and the role of art itself, we aim to share our feelings to the audience and show our main drive behind our work: love.
 <br>
 <br>
 Photos by Livia Benz, Duy Bui

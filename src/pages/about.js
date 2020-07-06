@@ -27,12 +27,12 @@ const AboutPage = ({data, location }) => {
       <h2>Exhibitions</h2>
       <ul style={{ listStyle: 'none', }}>
         <li><h3>2019</h3></li>
-        <li>Bonds & Ties 契約與紐帶, ZHdK, Zurich, Switzerland</li>
+        <li>Bonds & Ties 契約與紐帶, Toni-Areal, Zurich, Switzerland</li>
         <li>HART House, Hong Kong</li>
         <li>McaM Shanghai, China</li>
         <li>Design Festival Bern, Switzerland</li>
         <li>FOGO, Zurich, Switzerland</li>
-        <li>Punkt ZHdK, Zurich, Switzerland</li>
+        <li>Punkt, Toni-Areal, Zurich, Switzerland</li>
         <li><h3>2018</h3></li>
         <li>Zauberwald, Lenzerheide, Switzerland</li>
       </ul>

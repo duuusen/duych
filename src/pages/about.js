@@ -38,6 +38,8 @@ const AboutPage = ({data, location }) => {
       </ul>
       <h2>Screenings</h2>
       <ul style={{ listStyle: 'none', }}>
+        <li><h3>2020</h3></li>
+        <li>Isle of Tears, Centre for Community Cultural Development, Hong Kong</li>
         <li><h3>2019</h3></li>
         <li>Isle of Tears, Kino Toni, Zurich, Switzerland</li>
       </ul>

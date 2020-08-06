@@ -19,7 +19,7 @@ const AboutPage = ({data, location }) => {
     >
     <div class="about-wrap">
       <div class="about-content">
-        <p>Duy Bui (b. 1994 and based in Switzerland) works as a designer and artist. As an interaction designer by training he is using design as a tool of research and inquiry. Influenced by the friction of different cultures, values and societies he is particularly interested in observing and questioning societal, economical and political structures and paradoxes. In his works, he relies on close collaboration with fellow artists, designers and the community. By research and reflection he builds a vocabulary of the topic that he expresses in various ways such as installations, video, photography and mixed-media. Through his works he aims at fostering a basis for discussion and change./p>
+        <p>Duy Bui (b. 1994 and based in Switzerland) works as a designer and artist. As an interaction designer by training he is using design as a tool of research and inquiry. Influenced by the friction of different cultures, values and societies he is particularly interested in observing and questioning societal, economical and political structures and paradoxes. In his works, he relies on close collaboration with fellow artists, designers and the community. By research and reflection he builds a vocabulary of the topic that he expresses in various ways such as installations, video, photography and mixed-media. Through his works he aims at fostering a basis for discussion and change.</p>
       </div>
     </div>
     <div class="about-items-wrap">

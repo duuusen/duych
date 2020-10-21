@@ -48,7 +48,7 @@ In his works he relies on close collaboration with fellow artists and designers 
       <h2>Award</h2>
       <ul style={{ listStyle: 'none', }}>
         <li><h3>2020</h3></li>
-        <li><i>Best Short Film - Documentation (Isle of Tears)</i>, International Competition,  Lausanne Underground Film & Music Festival, Lausanne, Switzerland</li>
+        <li>Best Short Film - Documentation <i>(Isle of Tears)</i>, International Competition,  Lausanne Underground Film & Music Festival, Lausanne, Switzerland</li>
       </ul>
       </div>
       <div class="about-items">

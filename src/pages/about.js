@@ -19,7 +19,7 @@ const AboutPage = ({data, location }) => {
     >
     <div class="about-wrap">
       <div class="about-content">
-        <p>Duy Bui (born 1994, based in Switzerland) works in installation, photography, film and fictional media. As an interaction designer by training he is using design as a tool of research and inquiry. Influenced by the friction of different cultures, values and societies he focuses on observing and questioning interpersonal, societal and political structures and paradoxes. Born and raised in Zurich, he is particularly interested in exploring the Asian Identity, its meaning and position. 
+        <p>Duy Bui (born 1994, based in Switzerland) works in installation, photography, film and fictional media. As an interaction designer by training he is using design as a tool of research and inquiry. Influenced by the friction of different cultures, values and societies he focuses on observing and questioning interpersonal, societal and political structures and paradoxes. Born and raised in Zurich, he is particularly interested in exploring the Asian Identity, its meaning and position.
 In his works he relies on close collaboration with fellow artists and designers in order to develop a strong and thorough language. By research and reflection he builds a vocabulary of the topic that he expresses in various ways. He has made morphing images, mobile gardens, communicative surfaces, organised workshops and made clementines explode. Through his works he aims at fostering a basis for discussion and change.</p>
       </div>
     </div>

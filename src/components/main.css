@@ -67,7 +67,7 @@ body {
   visibility: hidden;
 }
 @media only screen and (max-width: 680px) {
-  .video {
+  .video-bg {
     display: none;
     visibility: hidden;
   }

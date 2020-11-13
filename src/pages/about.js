@@ -33,7 +33,7 @@ In his works he relies on close collaboration with fellow artists and designers 
         <li><i>Tear Up / See You Again</i>, McaM Shanghai, China</li>
         <li><i>clementine.lab</i>, Design Festival Bern, Switzerland</li>
         <li><i>Pop-up Kitchen</i>, FOGO, Zurich, Switzerland</li>
-        <li><i>Punkt</i>, Toni-Areal, Zurich, Switzerland</li>
+        <li><i>clementine.lab</i>, Punkt, Toni-Areal, Zurich, Switzerland</li>
         <li><h3>2018</h3></li>
         <li><i>Zauberwald Lenzerheide</i>, Lenzerheide, Switzerland</li>
       </ul>

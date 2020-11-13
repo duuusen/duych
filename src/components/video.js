@@ -34,11 +34,11 @@ export default ({ src }) => (
         }}
         >
         <video
-            className="video"
+            autoplay
             muted
-            loop
+r           loop
             playsinline
-            autoPlay
+            className="video"
             style={{
                 position: 'absolute',
                 top: '50%',

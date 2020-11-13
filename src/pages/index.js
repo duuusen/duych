@@ -14,7 +14,7 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Work" />
-    <Video src="trailer.mp4" muted loop playsinline autoplay />
+    <Video src="trailer.mp4"/>
     <aside>
       <ul style={{
         ...scale(1),

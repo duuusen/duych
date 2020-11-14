@@ -1,7 +1,7 @@
 ---
 title: Inglorious Basterds
 date: "2016-11"
-description: For the love of chairs 
+description: For the Love of Chairs 
 ---
 <div class="full">
 

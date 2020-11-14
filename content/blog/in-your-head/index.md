@@ -3,7 +3,7 @@ title: In Your Head
 artists: "Claudia Buck, Marcial Koch, Duy Bui"
 credits:
 date: "2018-10"
-description: Collectively dreaming space
+description: Collectively Dreaming Space
 ---
 <div class="medium">
 

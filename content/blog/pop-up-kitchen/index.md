@@ -3,7 +3,7 @@ title: Pop-Up Kitchen
 artists: "Lukas Näf, Luana Wiskemann, Duy Bui"
 credits:
 date: "2019-04"
-description: Cooking as a collective performance, a feeling of home and happiness. 
+description: Cooking as a collective performance 
 ---
 <div class="medium">
 

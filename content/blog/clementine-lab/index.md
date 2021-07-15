@@ -14,32 +14,7 @@ Clementines and other citrus fruits have a proven influence on enzyme and drug m
 
 <div class="full">
 
-![](./cl-1.jpg)
 ![](./cl-2.jpg)
-![](./cl-3.jpg)
-![Punkt Exhibition ZHdK Zurich 2019](./cl-4.jpg)
-![Design Festival Bern 2019](./cl-5.jpg)
-![](./cl-6.jpg)
 ![](./cl-7.jpg)
-![Process and Experiments](./cl-8.jpg)
-![](./cl-9.jpg)
-![](./cl-10.jpg)
 
 </div>
-
-## Materials
-- Clementine
-- Dry Ice
-- Glycerin
-- Gelatine
-- Soap
-- Ferrofluid
-- Magnets
-
-## Exhibition
-- Designfestival Bern, Switzerland  2–5 May 2019
-- Punkt ZHdK Zurich, Switzerland 21–24 April 2019
-
-## Literature
-- Theile, D., Hohmann, N., Kiemel, D., Gattuso, G., Barreca, D., Mikus, G., Haefeli, WE., Schwenger, V., Weiss, J. (2016). Clementine juice has the potential for drug interactions – In vitro comparison with grapefruit and mandarin juice. European journal of pharmaceutical sciences: official journal of the European Federation for Pharmaceutical Sciences (97).
-- Codoñer-Franch, P., López-Jaén, A., Muñiz, P., Sentandreu, E., Valls Bellés, V. (2008). Mandarin Juice Improves the Antioxidant Status of Hypercholesterolemic Children. Journal of Pediatric Gastroenterology and Nutrition 47(3). Kuznetsov, S., Doonan, C., Wilson, N., Mohan, S., Hudson, S., Paulos, E. (2015). DIYbio Things: Open Source Biology Tools as Platforms for Hybrid Knowledge Production and Scientific Participation.

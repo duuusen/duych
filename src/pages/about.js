@@ -55,7 +55,7 @@ In his works he relies on close collaboration with fellow artists and designers 
         <li><h3>2020</h3></li>
         <li><i>Where Do the Birds Land</i>, 12th International Convention of Asia Scholars, Kyoto, Japan, [upcoming]</li>
       </ul>
-      <h2>Award and Nominations</h2>
+      <h2>Awards and Nominations</h2>
       <ul style={{ listStyle: 'none', }}>
         <li><h3>2021</h3></li>
         <li>Finalist <i>Biodesign Challenge</i>, USA</li>
@@ -67,7 +67,7 @@ In his works he relies on close collaboration with fellow artists and designers 
       <div class="about-items">
         <h2>Links</h2>
       <ul style={{ listStyle: 'none', }}>
-        <li><a href="mailto:halloduy@gmail.com">Mail</a></li>
+        <li><a href="mailto:d@duy.ch">Mail</a></li>
         <li><a href="https://instagram.com/duuusen">Instagram</a></li>
         <li><a href="https://github.com/duuusen">Github</a></li>
       </ul>

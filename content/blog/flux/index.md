@@ -14,19 +14,9 @@ description: In the absence of humans, how would these materials interact?
 The material turn shifts the focus back to the materials and plays in the hand of design. Materials  as inherently performative mediators enable new forms of interactions between humans and materials, affording our actions and shifting our attitude towards how we perceive them.
 We imagined how these materials would interact with each other in absence of humans, questioning the nature of identity and agency, artificial and natural. Through the short film _Flux_ we imagined an environment in which fictional active materials react and perform with each other, make decisions and develop an identity of their own. Filmed only using UV light.
 
-![](./flux-1.jpg)
-![](./flux-2.jpg)
+<div class="full">
+
 ![](./flux-3.jpg)
-![](./flux-4.jpg)
-![](./flux-5.jpg)
-![](./flux-6.jpg)
-![](./flux-7.jpg)
 ![](./flux-8.jpg)
 
-## Materials
-- UV light
-- UV paint
-- Glycerin
-- Soap
-- Black light
-- Self recorded Audio
+</div>

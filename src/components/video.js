@@ -57,6 +57,7 @@ export default ({ src }) => (
       "
     >
         <source src="/trailer.mp4" type="video/mp4" />
+        <source src="/trailer.webm" type="video/webm" />
         Your device does not support playing 'video/mp4' videos
     </video>
       ` }}></div>

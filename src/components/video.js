@@ -56,9 +56,9 @@ export default ({ src }) => (
             objectPosition: 'center'
         }}
     >
-        <source src={withPrefix(src)} type="video/mp4" />
+        <source src="/trailer.mp4" type="video/mp4" />
         Your device does not support playing 'video/mp4' videos
-    </video>,
+    </video>
       ` }}></div>
         
       <Img className="bgImg" fluid={data.bgImg.childImageSharp.fluid} />

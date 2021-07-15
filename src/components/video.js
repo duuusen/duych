@@ -36,7 +36,7 @@ export default ({ src }) => (
         <video
             autoplay
             muted
-r           loop
+            loop
             playsinline
             className="video"
             style={{

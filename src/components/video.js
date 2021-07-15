@@ -35,10 +35,10 @@ export default ({ src }) => (
         >
           <div dangerouslySetInnerHTML={{ __html: `
         <video
-        preload
         autoPlay
-        playsInline
+        loop
         muted
+        playsInline
         className="video"
         style="
             position: absolute;

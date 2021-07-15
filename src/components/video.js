@@ -40,21 +40,21 @@ export default ({ src }) => (
         playsInline
         muted
         className="video"
-        style={{
-            position: 'absolute',
-            top: '50%',
-            left: '50%',
-            bottom: 0,
-            right: 0,
-            height: 'auto',
-            width: 'auto',
-            minHeight: '100%',
-            minWidth: '100%',
-            zIndex: '-1',
-            transform: 'translate(-50%, -50%)',
-            objectFit: 'fill',
-            objectPosition: 'center'
-        }}
+        style="
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            bottom: 0;
+            right: 0;
+            height: auto;
+            width: auto;
+            min-height: 100%;
+            min=width: 100%;
+            z-index: -1;
+            transform: translate(-50%, -50%);
+            object-fit: fill;
+            object-position: center;
+      "
     >
         <source src="/trailer.mp4" type="video/mp4" />
         Your device does not support playing 'video/mp4' videos

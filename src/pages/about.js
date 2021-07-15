@@ -27,14 +27,10 @@ In his works he relies on close collaboration with fellow artists and designers 
       <div class="about-items">
       <h2>Group Exhibitions</h2>
       <ul style={{ listStyle: 'none', }}>
-        <li><h3>2021</h3></li>
-        <li><i>on souls and soil</i>, [Diploma Exhibition], Toni-Areal, Zurich, Switzerland</li>
-        <li><i>Where Do the Birds Land</i>, 12th International Convention of Asia Scholars, Kyoto, Japan, [presentation]</li>
+        <li><h3>2021</h3></li>\
         <li><i>on souls and soil</i>, Ars Electronica, Linz, Zurich, [upcoming]</li>
         <li><i>on souls and soil</i>, Refresh Conference, Toni-Areal, Zurich, Switzerland, [upcoming]</li>
-        <li><h3>2020</h3></li>
-        <li><i>Isle of Tears</i>, Centre for Community Cultural Development, Hong Kong, Hong Kong</li>
-        <li><i>Isle of Tears</i>, Lausanne Underground Film & Music Festival, Lausanne, Switzerland</li>
+        <li><i>on souls and soil</i>, Toni-Areal, Zurich, Switzerland, [diploma exhibition]</li>
         <li><h3>2019</h3></li>
         <li><i>Bonds & Ties 契約與紐帶</i>, Toni-Areal, Zurich, Switzerland</li>
         <li><i>Improv Workshop</i>, HART House, Hong Kong</li>
@@ -48,13 +44,22 @@ In his works he relies on close collaboration with fellow artists and designers 
       <h2>Screenings</h2>
       <ul style={{ listStyle: 'none', }}>
         <li><h3>2020</h3></li>
+        <li><i>Isle of Tears</i>, Centre for Community Cultural Development, Hong Kong, Hong Kong</li>
+        <li><i>Isle of Tears</i>, Kunci Study Forum and Collective, Yogyakarta, Indonesia</li>
         <li><i>Isle of Tears</i>, Lausanne Underground Film & Music Festival, Lausanne, Switzerland</li>
-        <li><i>Isle of Tears</i>, Centre for Community Cultural Development, Hong Kong</li>
         <li><h3>2019</h3></li>
         <li><i>Isle of Tears</i>, Kino Toni, Zurich, Switzerland</li>
       </ul>
-      <h2>Award</h2>
+      <h2>Presentations</h2>
       <ul style={{ listStyle: 'none', }}>
+        <li><h3>2020</h3></li>
+        <li><i>Where Do the Birds Land</i>, 12th International Convention of Asia Scholars, Kyoto, Japan, [upcoming]</li>
+      </ul>
+      <h2>Award and Nominations</h2>
+      <ul style={{ listStyle: 'none', }}>
+        <li><h3>2021</h3></li>
+        <li>Finalist <i>Biodesign Challenge</i>, USA</li>
+        <li>Nomination <i>Förderpreis</i>, ZHdK, Switzerland</li>
         <li><h3>2020</h3></li>
         <li>Best Short Film - Documentation <i>(Isle of Tears)</i>, International Competition,  Lausanne Underground Film & Music Festival, Lausanne, Switzerland</li>
       </ul>

@@ -46,7 +46,6 @@ module.exports = {
               showCaptions: true,
               maxWidth: 1360,
               withWebp: true,
-              wrapperStyle: 'margin: 2vw 0;',
             },
           },
           {

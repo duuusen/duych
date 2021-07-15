@@ -34,7 +34,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.title}
           </h1>
-          <p style={{marginBottom: rhythm(1 / 2)}}>{post.frontmatter.medium}</p>
+          <p style={{marginBottom: 0}>{post.frontmatter.medium}</p>
           <p style={{marginBottom: 0}}>{post.frontmatter.credits}</p>
           <p style={{color: '#9E9E9E', marginBottom: rhythm(3 / 2.5)}}>{post.frontmatter.date}</p>
           <p style={{marginBottom: rhythm(1 / 2)}}>{post.frontmatter.description}</p>

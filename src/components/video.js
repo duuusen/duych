@@ -34,6 +34,8 @@ export default ({ src }) => (
         }}
         >
         <video
+            playsinline
+            preload="auto"
             className="video"
             style={{
                 position: 'absolute',
@@ -54,7 +56,6 @@ export default ({ src }) => (
             autoPlay
             muted
             loop
-            playsinline
         >
             <source src={withPrefix(src)} type="video/mp4" />
             Your device does not support playing 'video/mp4' videos

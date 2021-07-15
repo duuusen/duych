@@ -1,16 +1,12 @@
 ---
 title: Isle of Tears
-artists: "BouDai12"
+medium: Fictional Film Essay
+artists: "BouDai12 collective"
 date: "2019-12"
-description: Fictional Film Essay
+description: Imagination as investigation of the future, as a way to understand and convey. A time capsule of emotions. 22'46, Hong Kong 2019.
 ---
 <div class="full">
 
 ![Film Still](./isle-of-tears-still.jpg)
 
 </div>
-
-Imagination as investigation of the future, as a way to understand and convey. A time capsule of emotions.
-<br>
-<br>
-_Isle of Tears,_ 22'46, Hong Kong 2019

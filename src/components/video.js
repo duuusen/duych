@@ -50,7 +50,6 @@ export default ({ src }) => (
                 objectFit: 'fill',
                 objectPosition: 'center'
             }}
-            src={withPrefix(src)}
             preload
             autoPlay
             muted

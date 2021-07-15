@@ -33,30 +33,34 @@ export default ({ src }) => (
           zIndex: '-100'
         }}
         >
+          <div dangerouslySetInnerHTML={{ __html: `
         <video
-            preload
-            playsInline
-            muted
-            className="video"
-            style={{
-                position: 'absolute',
-                top: '50%',
-                left: '50%',
-                bottom: 0,
-                right: 0,
-                height: 'auto',
-                width: 'auto',
-                minHeight: '100%',
-                minWidth: '100%',
-                zIndex: '-1',
-                transform: 'translate(-50%, -50%)',
-                objectFit: 'fill',
-                objectPosition: 'center'
-            }}
-        >
-            <source src={withPrefix(src)} type="video/mp4" />
-            Your device does not support playing 'video/mp4' videos
-        </video>
+        preload
+        autoPlay
+        playsInline
+        muted
+        className="video"
+        style={{
+            position: 'absolute',
+            top: '50%',
+            left: '50%',
+            bottom: 0,
+            right: 0,
+            height: 'auto',
+            width: 'auto',
+            minHeight: '100%',
+            minWidth: '100%',
+            zIndex: '-1',
+            transform: 'translate(-50%, -50%)',
+            objectFit: 'fill',
+            objectPosition: 'center'
+        }}
+    >
+        <source src={withPrefix(src)} type="video/mp4" />
+        Your device does not support playing 'video/mp4' videos
+    </video>,
+      ` }}></div>
+        
       <Img className="bgImg" fluid={data.bgImg.childImageSharp.fluid} />
       </section>
     )}

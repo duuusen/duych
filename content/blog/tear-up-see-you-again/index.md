@@ -1,7 +1,6 @@
 ---
 title: Tear Up / See You Again
-artists: "BouDai12"
-credits: "Special Thanks to Echo"
+artists: "the BouDai12 collective. Special thanks to Echo."
 date: "2019-11"
 description: A series of installations by our collective Boudai12 at the Ming Contemporary Art Museum in Shanghai
 ---

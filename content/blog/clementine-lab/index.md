@@ -1,6 +1,6 @@
 ---
 title: clementine.lab
-artists: "Mara Weber, Duy Bui"
+artists: "Mara Weber"
 date: "2018-12"
 description: How can materials act as a mediator and as an agent? How can we through DIY medicine and biodesign take care of ourselves? How can we recognise and observe existing structures and systems, learn from them and derive our own interpretation from them?
 ---

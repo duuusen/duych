@@ -1,7 +1,7 @@
 ---
 title: Isle of Tears
 medium: Fictional Film Essay
-artists: "BouDai12 collective"
+artists: "the BouDai12 collective"
 date: "2019-12"
 description: Imagination as investigation of the future, as a way to understand and convey. A time capsule of emotions. 22'46, Hong Kong 2019.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pop-Up Kitchen
-artists: "Lukas Näf, Luana Wiskemann, Duy Bui"
+artists: "Lukas Näf & Luana Wiskemann"
 credits:
 date: "2019-04"
 description: Cooking as Collective Performance 
@@ -18,9 +18,6 @@ First fired up at FOGO Zurich April 2019.
 
 <div class="full">
 
-![](./popupkitchen-1.jpg)
-![](./popupkitchen-2.jpg)
-![](./popupkitchen-4.jpg)
 ![](./popupkitchen-3.jpg)
 ![](./popupkitchen-5.jpg)
 

@@ -1,6 +1,6 @@
 ---
 title: Flux
-artists: "Fiona Good, Marcial Koch, Mara Weber, Duy Bui"
+artists: "Fiona Good, Marcial Koch & Mara Weber"
 credits:
 date: "2017-12"
 description: In the absence of humans, how would these materials interact?

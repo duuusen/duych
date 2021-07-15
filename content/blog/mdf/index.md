@@ -1,6 +1,6 @@
 ---
 title: MDF
-artists: "Fiona Good, Mara Weber, Duy Bui"
+artists: "Fiona Good & Mara Weber"
 date: "2019-03"
 description: Exploring Human Spaces
 ---

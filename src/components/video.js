@@ -34,10 +34,9 @@ export default ({ src }) => (
         }}
         >
         <video
-                    preload
-                    autoPlay
-                    muted
-                    playsInline
+            preload
+            playsInline
+            muted
             className="video"
             style={{
                 position: 'absolute',

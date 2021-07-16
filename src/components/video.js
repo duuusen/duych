@@ -22,6 +22,7 @@ export default ({ src }) => (
       }
     `}
     render={data => (
+      
       <section
         style={{
           position: 'fixed',
@@ -35,10 +36,10 @@ export default ({ src }) => (
         >
           <div dangerouslySetInnerHTML={{ __html: `
         <video
-        autoPlay="true"
-        loop="true"
-        muted="true"
-        playsInline="true"
+        autoPlay
+        loop
+        muted
+        playsInline
         className="video"
         style="
             position: absolute;
@@ -50,17 +51,18 @@ export default ({ src }) => (
             width: auto;
             min-height: 100%;
             min=width: 100%;
-            z-index: 1;
             transform: translate(-50%, -50%);
             object-fit: fill;
             object-position: center;
       "
-      src=""
     >
         <source src="/trailer.mp4" type="video/mp4" />
         <source src="/trailer.webm" type="video/webm" />
         Your device does not support playing 'video/mp4' videos
     </video>
+    <div class="imgvideo-container">
+      <img class="imgvideo" src="/trailer.mp4"> <!-- omg safari... works only with this ugly workaround -->
+    </div>
       ` }}></div>
         
       <Img className="bgImg" fluid={data.bgImg.childImageSharp.fluid} />

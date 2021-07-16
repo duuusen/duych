@@ -14,21 +14,25 @@ const AboutPage = ({data, location }) => {
     <section
       style={{
         maxWidth: rhythm(38),
-        margin: '0 auto',
+        margin: '0 auto 10vh',
       }}
     >
     <div class="about-wrap">
       <div class="about-content">
-        <p>Duy Bui (born 1994, based in Switzerland) works in installation, photography, film and fictional media. As an interaction designer by training he is using design as a tool of research and inquiry. Influenced by the friction of different cultures, values and societies he focuses on observing and questioning interpersonal, societal and political structures and paradoxes. Born and raised in Zurich, he is particularly interested in exploring the Asian Identity, its meaning and position.
-In his works he relies on close collaboration with fellow artists and designers in order to develop a strong and thorough language. By research and reflection he builds a vocabulary of the topic that he expresses in various ways. He has made morphing images, mobile gardens, communicative surfaces, organised workshops and made clementines explode. Through his works he aims at fostering a basis for discussion and change.</p>
+        <p>Duy Bui (born 1994, based in Switzerland) works in installation, photography, film and fictional media. He loves to wander and wonder; always restless in the now, he seeks the in-between and far beyond. His optimism comes from his friends and the stories they tell together.</p>
       </div>
     </div>
     <div class="about-items-wrap">
+    <ul style={{ listStyle: 'none', }}>
+        <li><a href="mailto:d@duy.ch">Mail</a></li>
+        <li><a href="https://instagram.com/duuusen">Instagram</a></li>
+        <li><a href="https://github.com/duuusen">Github</a></li>
+      </ul>
       <div class="about-items">
       <h2>Group Exhibitions</h2>
       <ul style={{ listStyle: 'none', }}>
         <li><h3>2021</h3></li>
-        <li><i>on souls and soil</i>, Ars Electronica, Linz, Zurich, [upcoming]</li>
+        <li><i>on souls and soil</i>, Ars Electronica, Linz, Austria, [upcoming]</li>
         <li><i>on souls and soil</i>, Refresh Conference, Toni-Areal, Zurich, Switzerland, [upcoming]</li>
         <li><i>on souls and soil</i>, Toni-Areal, Zurich, Switzerland, [diploma exhibition]</li>
         <li><h3>2019</h3></li>
@@ -64,14 +68,6 @@ In his works he relies on close collaboration with fellow artists and designers 
         <li>Best Short Film - Documentation <i>(Isle of Tears)</i>, International Competition,  Lausanne Underground Film & Music Festival, Lausanne, Switzerland</li>
       </ul>
       </div>
-      <div class="about-items">
-        <h2>Links</h2>
-      <ul style={{ listStyle: 'none', }}>
-        <li><a href="mailto:d@duy.ch">Mail</a></li>
-        <li><a href="https://instagram.com/duuusen">Instagram</a></li>
-        <li><a href="https://github.com/duuusen">Github</a></li>
-      </ul>
-    </div>
       </div>
     </section>
     </Layout>

@@ -50,7 +50,7 @@ export default ({ src }) => (
             width: auto;
             min-height: 100%;
             min=width: 100%;
-            z-index: -1;
+            z-index: 1;
             transform: translate(-50%, -50%);
             object-fit: fill;
             object-position: center;

@@ -1,13 +1,16 @@
 ---
-title: Zauberwald 
-artists: "Fiona Good, Colin Schmid, Duy Bui"
-credits:
-date: "2018-11"
-description: A digital marble run installation in collaboration with EWZ and Zauberwald Lenzerheide to show the principles of hydropower in an interactive way
+title: on souls and soil 
+date: "2021-06"
+medium: "Research based work [ongoing]"
 ---
 <div class="full">
 
-![](./zw-4.jpg)
-![](./zw-2.jpg)
+![](./osas.jpg)
 
 </div>
+BA Thesis project
+<br>
+Mentors: Dr. Roman Kirschner, Mona Neubauer, Luke Franzke
+<br>
+<br>
+Upcoming: Exhibition at Ars Electronica 2021, Linz, Austria as part of <i>20 Years Interaction Design</i>

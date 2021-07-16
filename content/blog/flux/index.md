@@ -1,9 +1,9 @@
 ---
 title: Flux
-artists: "Fiona Good, Marcial Koch & Mara Weber"
+artists: "In collaboration with Fiona Good, Marcial Koch & Mara Weber"
 credits:
 date: "2017-12"
-description: In the absence of humans, how would these materials interact?
+medium: "Video Installation: Material Fiction"
 ---
 <div class="full">
 
@@ -12,7 +12,7 @@ description: In the absence of humans, how would these materials interact?
 </div>
 
 The material turn shifts the focus back to the materials and plays in the hand of design. Materials  as inherently performative mediators enable new forms of interactions between humans and materials, affording our actions and shifting our attitude towards how we perceive them.
-We imagined how these materials would interact with each other in absence of humans, questioning the nature of identity and agency, artificial and natural. Through the short film _Flux_ we imagined an environment in which fictional active materials react and perform with each other, make decisions and develop an identity of their own. Filmed only using UV light.
+We imagined how these materials would interact with each other in absence of humans, questioning the nature of identity and agency, artificial and natural.
 
 <div class="full">
 

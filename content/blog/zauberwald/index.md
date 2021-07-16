@@ -1,9 +1,9 @@
 ---
 title: Zauberwald 
-artists: "Fiona Good & Colin Schmid"
+artists: "In collaboration with Fiona Good & Colin Schmid"
 credits:
 date: "2018-11"
-description: A digital marble run installation in collaboration with EWZ and Zauberwald Lenzerheide to show the principles of hydropower in an interactive way
+medium: Digital marble run in collaboration with EWZ and Zauberwald Lenzerheide, higlighting the principles of hydropower
 ---
 <div class="full">
 

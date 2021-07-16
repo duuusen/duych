@@ -18,6 +18,9 @@ const AboutPage = ({data, location }) => {
       }}
     >
     <div class="about-wrap">
+    <div class="about-img">
+        <Img fluid={data.profilePic.childImageSharp.fluid} />
+      </div>
       <div class="about-content">
         <p>Duy Bui (born 1994, based in Switzerland) works in installation, photography, film and fictional media. He loves to wander and wonder; always restless in the now, he seeks the in-between and far beyond. His optimism comes from his friends and the stories they tell together.</p>
       </div>
@@ -78,7 +81,7 @@ export default AboutPage
 
 export const pageQuery = graphql`
   query {
-    profilePic: file(relativePath: { eq: "duybui.jpg" }) {
+    profilePic: file(relativePath: { eq: "duy.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid

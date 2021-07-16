@@ -47,14 +47,12 @@ body {
   justify-content: space-between;
   margin-bottom: 5rem;
 }
-/*--
 .about-img {
-  flex-basis: 40%;
-  padding-bottom: 4vw;
+  flex-basis: 90%;
+  padding-bottom: 3vh;
 }
---*/
 .about-content {
-  flex-basis: 57%;
+  flex-basis: 63%;
 }
 .about-items {
   margin-right: 8vw;

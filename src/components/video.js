@@ -35,10 +35,10 @@ export default ({ src }) => (
         >
           <div dangerouslySetInnerHTML={{ __html: `
         <video
-        autoPlay
-        loop
-        muted
-        playsInline
+        autoPlay="true"
+        loop="true"
+        muted="true"
+        playsInline="true"
         className="video"
         style="
             position: absolute;
@@ -55,6 +55,7 @@ export default ({ src }) => (
             object-fit: fill;
             object-position: center;
       "
+      src=""
     >
         <source src="/trailer.mp4" type="video/mp4" />
         <source src="/trailer.webm" type="video/webm" />

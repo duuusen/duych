@@ -5,7 +5,7 @@ export function onRenderBody(
 ) {
  setHeadComponents([
   <script async
-    src="https://www.googletagmanager.com/gtag/js?id=G-13S48FE4TJ"
+    async src="https://www.googletagmanager.com/gtag/js?id=G-5VVPBDFZBB"
   />,
   <script
   dangerouslySetInnerHTML={{
@@ -14,7 +14,7 @@ export function onRenderBody(
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
   
-    gtag('config', 'G-13S48FE4TJ');
+    gtag('config', 'G-5VVPBDFZBB');
   `,
   }}
   />

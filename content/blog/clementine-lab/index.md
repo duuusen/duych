@@ -1,6 +1,6 @@
 ---
 title: clementine.lab
-artists: "In collaboration with Mara Weber"
+artists: "In collaboration with Mara Weber."
 date: "2018-12"
 medium: Installation & Workshop
 ---

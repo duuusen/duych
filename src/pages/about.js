@@ -92,7 +92,7 @@ const AboutPage = ({data, location }) => {
           <h3>Credits</h3>
             <p>Showreel contributing footages: Transcultural Collaboration, Fabian Keller</p>
             <p>Photos: Duy Bui if not stated otherwise</p>
-            <p>© {new Date().getFullYear()} Duy Bui</p>
+            <p>© {new Date().getFullYear()}</p>
         </div>
       </div>
       </div>

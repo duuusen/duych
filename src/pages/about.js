@@ -59,7 +59,7 @@ const AboutPage = ({data, location }) => {
       </ul>
       <h2>Presentations</h2>
       <ul style={{ listStyle: 'none', }}>
-        <li><h3>2020</h3></li>
+        <li><h3>2021</h3></li>
         <li><i>Where Do the Birds Land</i>, 12th International Convention of Asia Scholars, Kyoto, Japan, [upcoming]</li>
       </ul>
       <h2>Awards and Nominations</h2>

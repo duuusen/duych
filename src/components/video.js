@@ -60,9 +60,6 @@ export default ({ src }) => (
         <source src="/trailer.webm" type="video/webm" />
         Your device does not support playing 'video/mp4' videos
     </video>
-    <div class="imgvideo-container">
-      <img class="imgvideo" src="/trailer.mp4"> <!-- omg safari... works only with this ugly workaround -->
-    </div>
       ` }}></div>
         
       <Img className="bgImg" fluid={data.bgImg.childImageSharp.fluid} />

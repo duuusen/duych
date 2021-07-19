@@ -27,6 +27,6 @@ _Tear Up / See You Again_ –《再見 / 睙眼》 are a series of photography, 
 ![](./tearupseeyouagain-9.jpg)
 
 </div>
-<p>Photos by Livia Benz & Duy Bui.</p>
+<p>Photos: Livia Benz & Duy Bui.</p>
 
 

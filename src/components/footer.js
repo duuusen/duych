@@ -9,10 +9,10 @@ export default ({ src }) => {
           ...scale(-1 / 3),
           color: '#9E9E9E',
           marginTop: rhythm(2),
-          marginBottom: rhythm(2),
+          marginBottom: rhythm(5),
         }}
       >
-      © {new Date().getFullYear()} Duy Bui
+      {/* <p>© {new Date().getFullYear()} Duy Bui</p> */}
       </footer>
     )
 }

@@ -12,7 +12,6 @@ medium: For the Love of Chairs
 ![](./inglorious-basterds-7.jpg)
 ![](./inglorious-basterds-2.jpg)
 ![](./inglorious-basterds-5.jpg)
-![](./inglorious-basterds-8.jpg)
 
 </div>
 

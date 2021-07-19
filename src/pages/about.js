@@ -4,7 +4,7 @@ import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
+import { scale, rhythm } from "../utils/typography"
 
 const AboutPage = ({data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -19,7 +19,10 @@ const AboutPage = ({data, location }) => {
     >
     <div class="about-wrap">
     <div class="about-img">
+        <figure>
         <Img fluid={data.profilePic.childImageSharp.fluid} />
+        <figcaption>Photo: Fabian Keller</figcaption>
+        </figure> 
       </div>
       <div class="about-content">
         <p>Duy Bui (born 1994, based in Switzerland) works in installation, photography, film and fictional media. He loves to wander and wonder; always restless in the now, he seeks the in-between and far beyond. His optimism comes from his friends and the stories they tell together.</p>
@@ -62,7 +65,7 @@ const AboutPage = ({data, location }) => {
         <li><h3>2021</h3></li>
         <li><i>Where Do the Birds Land</i>, 12th International Convention of Asia Scholars, Kyoto, Japan, [upcoming]</li>
       </ul>
-      <h2>Awards and Nominations</h2>
+      <h2>Recognitions</h2>
       <ul style={{ listStyle: 'none', }}>
         <li><h3>2021</h3></li>
         <li>Finalist, <i>Biodesign Challenge</i>, USA</li>
@@ -70,6 +73,27 @@ const AboutPage = ({data, location }) => {
         <li><h3>2020</h3></li>
         <li>Best Short Film - Documentation <i>(Isle of Tears)</i>, International Competition,  Lausanne Underground Film & Music Festival, Lausanne, Switzerland</li>
       </ul>
+      <br />
+      <br />
+      <br />
+      <hr
+          style={{
+            marginTop: rhythm(2),
+            marginBottom: rhythm(1),
+          }}
+        />
+        <div
+          style={{
+            ...scale(-1 / 3),
+            lineHeight: rhythm(0.85),
+          }}
+          className="test"
+          >
+          <h3>Credits</h3>
+            <p>Showreel contributing footages: Transcultural Collaboration, Fabian Keller</p>
+            <p>Photos: Duy Bui if not stated otherwise</p>
+            <p>© {new Date().getFullYear()} Duy Bui</p>
+        </div>
       </div>
       </div>
     </section>

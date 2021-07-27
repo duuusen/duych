@@ -48,7 +48,7 @@ export default ({ src }) => (
             bottom: 0;
             right: 0;
             height: auto;
-            width: auto;
+            min-width: 100%;
             min-height: 100%;
             min=width: 100%;
             transform: translate(-50%, -50%);

@@ -9,8 +9,8 @@ module.exports = {
     siteUrl: `https://duy.ch`,
     social: {
       twitter: ``,
-      instagram: '',
-      github: '',
+      instagram: 'duuusen',
+      github: 'duuusen',
     },
   },
   plugins: [

@@ -47,10 +47,8 @@ export default ({ src }) => (
             left: 50%;
             bottom: 0;
             right: 0;
-            height: auto;
             min-width: 100%;
             min-height: 100%;
-            min-width: 100%;
             transform: translate(-50%, -50%);
             object-fit: fill;
             object-position: center;

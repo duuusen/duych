@@ -38,13 +38,13 @@ const AboutPage = ({data, location }) => {
       <h2>Group Exhibitions</h2>
       <ul style={{ listStyle: 'none', }}>
         <li><h3>2021</h3></li>
-        <li><i>on souls and soil</i>, Ars Electronica, Linz, Austria, [upcoming]</li>
-        <li><i>on souls and soil</i>, Refresh Conference, Toni-Areal, Zurich, Switzerland, [upcoming]</li>
-        <li><i>on souls and soil</i>, Toni-Areal, Zurich, Switzerland, [diploma exhibition]</li>
+        <li><i>on souls and soil</i>, Ars Electronica, Linz, Austria [upcoming]</li>
+        <li><i>on souls and soil</i>, Refresh Conference, Toni-Areal, Zurich, Switzerland [upcoming]</li>
+        <li><i>on souls and soil</i>, Toni-Areal, Zurich, Switzerland [diploma exhibition]</li>
         <li><h3>2019</h3></li>
         <li><i>Bonds & Ties 契約與紐帶</i>, Toni-Areal, Zurich, Switzerland</li>
         <li><i>Improv Workshop</i>, HART House, Hong Kong</li>
-        <li><i>Tear Up / See You Again</i>, McaM Shanghai, China</li>
+        <li><i>Tear Up / See You Again</i>, Ming Contemporary Art Museum, Shanghai, China</li>
         <li><i>clementine.lab</i>, Design Festival Bern, Switzerland</li>
         <li><i>Pop-up Kitchen</i>, FOGO, Zurich, Switzerland</li>
         <li><i>clementine.lab</i>, Punkt, Toni-Areal, Zurich, Switzerland</li>
@@ -63,7 +63,7 @@ const AboutPage = ({data, location }) => {
       <h2>Presentations</h2>
       <ul style={{ listStyle: 'none', }}>
         <li><h3>2021</h3></li>
-        <li><i>Where Do the Birds Land</i>, 12th International Convention of Asia Scholars, Kyoto, Japan, [upcoming]</li>
+        <li><i>Where Do the Birds Land</i>, 12th International Convention of Asia Scholars, Kyoto, Japan [upcoming]</li>
       </ul>
       <h2>Recognitions</h2>
       <ul style={{ listStyle: 'none', }}>

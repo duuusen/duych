@@ -54,7 +54,7 @@ const AboutPage = ({data, location }) => {
       <h2>Screenings</h2>
       <ul style={{ listStyle: 'none', }}>
         <li><h3>2020</h3></li>
-        <li><i>Isle of Tears</i>, Centre for Community Cultural Development, Hong Kong, Hong Kong</li>
+        <li><i>Isle of Tears</i>, Centre for Community Cultural Development, Hong Kong</li>
         <li><i>Isle of Tears</i>, Kunci Study Forum and Collective, Yogyakarta, Indonesia</li>
         <li><i>Isle of Tears</i>, Lausanne Underground Film & Music Festival, Lausanne, Switzerland</li>
         <li><h3>2019</h3></li>

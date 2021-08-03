@@ -69,7 +69,7 @@ const AboutPage = ({data, location }) => {
       <ul style={{ listStyle: 'none', }}>
         <li><h3>2021</h3></li>
         <li>Finalist, <i>Biodesign Challenge</i>, USA</li>
-        <li>Nomination, <i>Förderpreis</i>, ZHdK, Switzerland</li>
+        <li>Nomination, <i>Förderpreis Bachelor Design</i>, ZHdK, Switzerland</li>
         <li><h3>2020</h3></li>
         <li>Best Short Film - Documentation <i>(Isle of Tears)</i>, International Competition,  Lausanne Underground Film & Music Festival, Lausanne, Switzerland</li>
       </ul>

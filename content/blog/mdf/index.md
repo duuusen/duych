@@ -19,3 +19,8 @@ How do we perceive the space around us and how do we perceive our own space? How
 ![](./mdf-4.png)
 
 </div>
+Different sizes of styrofoam spheres are placed between two sheets of a specific synthetic film, which is then fused together creating a partial vaccum. This vacuum creates more friction between the spheres and the synthetic film, holding them vertically in place and preventing them from falling to the bottom.
+<br>
+This surface can be charged with different materials, which in turn gives the surface distinct properties, like force of the electric charge and repelling or attractive qualities, as well as different interactions between the differently sized spheres.
+<br>
+The surface interacts and communicates with us, by letting us feel the interaction between our electrostatic field and the surface as well as hear the electric discharges and see the movement of the spheres.

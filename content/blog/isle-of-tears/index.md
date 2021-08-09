@@ -10,4 +10,8 @@ description: Imagination as investigation of the future, as a way to understand 
 ![Film Still](./isle-of-tears-still.jpg)
 
 </div>
+Shown at in Zurich at Kino Toni, in Lausanne at the Lausanne Underground Film & Music Festival, in Hong Kong at the Centre for Cultural Community Development and in Yogyakarta at the Kunci Study Forum and Collective.
+<br>
+<br>
+<br>
 <p>Awarded Best Short Film - Documentation at the Lausanne Underground Film & Music Festival, Lausanne, Switzerland.</p>

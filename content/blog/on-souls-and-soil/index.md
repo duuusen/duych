@@ -5,7 +5,7 @@ medium: "Research based work [ongoing]"
 ---
 <div class="full">
 
-![Exhibition View at Ars Electronica 2021. Photo: Tom Mesic](./osas.jpg)
+![Exhibition view at Ars Electronica 2021. Photo: Tom Mesic](./osas.jpg)
 
 </div>
 Soil flows. It is a changing body, flowing through and with everything on this planet. 

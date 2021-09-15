@@ -38,8 +38,7 @@ const AboutPage = ({data, location }) => {
       <h2>Group Exhibitions</h2>
       <ul style={{ listStyle: 'none', }}>
         <li><h3>2021</h3></li>
-        <li><i>on souls and soil</i>, Ars Electronica, Linz, Austria [upcoming]</li>
-        <li><i>on souls and soil</i>, Refresh Conference, Toni-Areal, Zurich, Switzerland [upcoming]</li>
+        <li><i>on souls and soil</i>, Ars Electronica, Linz, Austria</li>
         <li><i>on souls and soil</i>, Toni-Areal, Zurich, Switzerland [diploma exhibition]</li>
         <li><h3>2019</h3></li>
         <li><i>Bonds & Ties 契約與紐帶</i>, Toni-Areal, Zurich, Switzerland</li>

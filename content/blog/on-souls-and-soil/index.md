@@ -17,3 +17,7 @@ With an attunement to the more-than-human we gain a greater sense of our interac
 BA Thesis project
 <br>
 Mentors: Dr. Roman Kirschner, Mona Neubauer, Luke Franzke
+<br>
+In collaboration with the Swiss Federal Institute for Forest, Snow and Landscape Research WSL.
+<br>
+With thanks to Empa.

@@ -36,6 +36,7 @@ export default ({ src }) => (
         >
           <div dangerouslySetInnerHTML={{ __html: `
         <video
+        preload
         autoPlay
         loop
         muted

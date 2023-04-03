@@ -66,7 +66,9 @@ const AboutPage = ({data, location }) => {
       </ul>
       <h2>Presentations</h2>
       <ul style={{ listStyle: 'none', }}>
-        li><h3>2021</h3></li>
+        <li><h3>2023</h3></li>
+          <li><i>Soil-Microbe-Human Interfaces: Designing for the Field Interactions</i>, IxDA Interaction23 Conference, Zurich, Switzerland</li>
+        <li><h3>2022</h3></li>
           <li><i>Soil Interfaces and Interactions</i>, CCA Annex, CCA Glasgow, United Kingdom</li>
           <li><i>How to (Make) Sense; Or: Where Is the Design</i>, SDN Conference: Counterparts, Toni-Areal, Switzerland</li>
         <li><h3>2021</h3></li>

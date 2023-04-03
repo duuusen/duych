@@ -18,12 +18,12 @@ const AboutPage = ({data, location }) => {
       }}
     >
     <div class="about-wrap">
-    <div class="about-img">
-        <figure>
-        <Img fluid={data.profilePic.childImageSharp.fluid} />
-        <figcaption>Photo: Fabian Keller</figcaption>
-        </figure> 
-      </div>
+//     <div class="about-img">
+//         <figure>
+//         <Img fluid={data.profilePic.childImageSharp.fluid} />
+//         <figcaption>Photo: Fabian Keller</figcaption>
+//         </figure> 
+//       </div>
       <div class="about-content">
         <p>Duy Bui (born 1994, based in Switzerland) works in installation, photography, film and fictional media. He loves to wander and wonder; always restless in the now, he seeks the in-between and far beyond. His optimism comes from his friends and the stories they tell together.</p>
       </div>
@@ -37,6 +37,11 @@ const AboutPage = ({data, location }) => {
       <div class="about-items">
       <h2>Group Exhibitions</h2>
       <ul style={{ listStyle: 'none', }}>
+        <li><h3>2023</h3></li>
+        <li><i>Research Project Exhibition</i>, IxDA Education Summit, Toni-Areal, Switzerland</li>
+         <li><i>How is the weather today?</i>, Bits n Bolts Robotival, Zentralwäscherei, Switzerland</li>
+        <li><h3>2022</h3></li>
+        <li><i>on souls and soil</i>, SDN Conference, Toni-Areal, Switzerland</li>
         <li><h3>2021</h3></li>
         <li><i>on souls and soil</i>, Ars Electronica, Linz, Austria</li>
         <li><i>on souls and soil</i>, Toni-Areal, Zurich, Switzerland [diploma exhibition]</li>
@@ -61,8 +66,12 @@ const AboutPage = ({data, location }) => {
       </ul>
       <h2>Presentations</h2>
       <ul style={{ listStyle: 'none', }}>
+        li><h3>2021</h3></li>
+          <li><i>Soil Interfaces and Interactions</i>, CCA Annex, CCA Glasgow, United Kingdom</li>
+          <li><i>How to (Make) Sense; Or: Where Is the Design</i>, SDN Conference: Counterparts, Toni-Areal, Switzerland</li>
         <li><h3>2021</h3></li>
-        <li><i>Where Do the Birds Land</i>, 12th International Convention of Asia Scholars, Kyoto, Japan [upcoming]</li>
+        <li><i>On Interaction</i>, Panel, Ars Electronica, Austria</li>
+        <li><i>Creative Resistance: How Art and Design Can Function as Powerful Tools to Counteract Systems of Oppression</i>, Power Panel, Designathon, Basel Switzerland</li>
       </ul>
       <h2>Recognitions</h2>
       <ul style={{ listStyle: 'none', }}>

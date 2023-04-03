@@ -18,12 +18,6 @@ const AboutPage = ({data, location }) => {
       }}
     >
     <div class="about-wrap">
-//     <div class="about-img">
-//         <figure>
-//         <Img fluid={data.profilePic.childImageSharp.fluid} />
-//         <figcaption>Photo: Fabian Keller</figcaption>
-//         </figure> 
-//       </div>
       <div class="about-content">
         <p>Duy Bui (born 1994, based in Switzerland) works in installation, photography, film and fictional media. He loves to wander and wonder; always restless in the now, he seeks the in-between and far beyond. His optimism comes from his friends and the stories they tell together.</p>
       </div>

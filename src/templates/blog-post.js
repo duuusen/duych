@@ -41,7 +41,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <br></br>
         <p style={{marginBottom: 0}}>{post.frontmatter.artists}</p>
-        <p style={{marginBottom: 0}}>{post.frontmatter.credits}</p>
+        {/* <p style={{marginBottom: 0}}>{post.frontmatter.credits}</p> */}
         <section>
           <p>{post.frontmatter.literature}</p>
         </section>
